@@ -1,12 +1,12 @@
 {
-"built": "25 Nov 2026, 15:19 UTC",
-"built_at": "2026-11-25T15:19:49+00:00",
+"built": "25 Nov 2026, 16:21 UTC",
+"built_at": "2026-11-25T16:21:23+00:00",
 "sources": {
 "LinkedIn": {
 "ok": true,
-"found": 148,
-"new": 0,
-"secs": 80
+"found": 183,
+"new": 2,
+"secs": 94
 },
 "Google Careers": {
 "ok": true,
@@ -16,15 +16,15 @@
 },
 "Amazon Jobs": {
 "ok": true,
-"found": 13,
+"found": 12,
 "new": 0,
 "secs": 10
 },
 "Microsoft Careers": {
 "ok": true,
-"found": 5,
-"new": 0,
-"secs": 18
+"found": 8,
+"new": 1,
+"secs": 7
 },
 "Workday careers (Adobe, NVIDIA, Intel, Salesforce)": {
 "ok": true,
@@ -36,13 +36,13 @@
 "ok": true,
 "found": 102,
 "new": 0,
-"secs": 12
+"secs": 11
 },
 "Fresher job blogs (RSS)": {
 "ok": true,
-"found": 7,
-"new": 1,
-"secs": 2
+"found": 6,
+"new": 0,
+"secs": 6
 },
 "Infopark": {
 "ok": true,
@@ -54,7 +54,7 @@
 "ok": true,
 "found": 18,
 "new": 0,
-"secs": 11
+"secs": 12
 },
 "Arbeitnow (Germany visa)": {
 "ok": true,
@@ -1368,6 +1368,20 @@
 "last_seen": "2026-11-25"
 },
 {
+"title": "Java Full Stack Developer (SpringBoot, Microservices, Angular, Next.JS)_3-6 Yrs_Bangalore",
+"company": "Global Payments Inc.",
+"location": "Bengaluru East, Karnataka, India",
+"apply_url": "https://in.linkedin.com/jobs/view/java-full-stack-developer-springboot-microservices-angular-next-js-3-6-yrs-bangalore-at-global-payments-inc-4494659271",
+"source": "LinkedIn",
+"posted_or_email_date": "2026-11-25",
+"category": "Web Dev",
+"is_kochi": false,
+"is_fresher": true,
+"experience_text": "LinkedIn: entry level / internship",
+"first_seen": "2026-11-25",
+"last_seen": "2026-11-25"
+},
+{
 "title": "SW Engineer (Python, Kafka, GenAI; Exp: 6 months-24 months only)",
 "company": "Visa",
 "location": "Bengaluru, Karnataka, India",
@@ -2055,6 +2069,32 @@
 "is_kochi": false,
 "is_fresher": true,
 "experience_text": "LinkedIn: entry level / internship",
+"first_seen": "2026-11-25",
+"last_seen": "2026-11-25"
+},
+{
+"title": "AI Web Developer – Frontend & Web Platforms",
+"company": "Flexiple",
+"location": "Chennai, Tamil Nadu, India",
+"apply_url": "https://in.linkedin.com/jobs/view/ai-web-developer-%E2%80%93-frontend-web-platforms-at-flexiple-4494400627",
+"source": "LinkedIn",
+"posted_or_email_date": "2026-11-24",
+"category": "AI/ML",
+"is_kochi": false,
+"is_fresher": true,
+"experience_text": "LinkedIn: entry level / internship",
+"first_seen": "2026-11-25",
+"last_seen": "2026-11-25"
+},
+{
+"title": "Digital Cloud Solution Architecture IC4",
+"company": "Microsoft",
+"location": "India, Karnataka, Bangalore",
+"apply_url": "https://apply.careers.microsoft.com/careers/job/1970393557075912",
+"source": "Microsoft Careers",
+"posted_or_email_date": "2026-11-24",
+"category": "DevOps/Cloud",
+"is_kochi": false,
 "first_seen": "2026-11-25",
 "last_seen": "2026-11-25"
 },
