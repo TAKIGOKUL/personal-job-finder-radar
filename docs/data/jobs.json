@@ -1,66 +1,66 @@
 {
-"built": "25 Nov 2026, 14:50 UTC",
-"built_at": "2026-11-25T14:50:16+00:00",
+"built": "25 Nov 2026, 15:05 UTC",
+"built_at": "2026-11-25T15:05:49+00:00",
 "sources": {
 "LinkedIn": {
 "ok": true,
-"found": 562,
-"new": 361,
-"secs": 144
+"found": 551,
+"new": 184,
+"secs": 120
 },
 "Google Careers": {
 "ok": true,
 "found": 33,
-"new": 30,
-"secs": 15
+"new": 25,
+"secs": 5
 },
 "Amazon Jobs": {
 "ok": true,
 "found": 18,
-"new": 11,
-"secs": 26
+"new": 3,
+"secs": 10
 },
 "Microsoft Careers": {
 "ok": true,
-"found": 3,
-"new": 3,
-"secs": 44
+"found": 6,
+"new": 2,
+"secs": 15
 },
 "Workday careers (Adobe, NVIDIA, Intel, Salesforce)": {
 "ok": true,
 "found": 49,
-"new": 42,
-"secs": 54
+"new": 20,
+"secs": 36
 },
 "Telegram channels": {
 "ok": true,
 "found": 121,
-"new": 100,
-"secs": 13
+"new": 16,
+"secs": 12
 },
 "Fresher job blogs (RSS)": {
 "ok": true,
 "found": 11,
-"new": 11,
-"secs": 2
+"new": 8,
+"secs": 5
 },
 "Infopark": {
 "ok": true,
 "found": 63,
-"new": 63,
-"secs": 1
+"new": 53,
+"secs": 4
 },
 "Technopark": {
 "ok": true,
 "found": 120,
-"new": 115,
-"secs": 8
+"new": 101,
+"secs": 11
 },
 "Arbeitnow (Germany visa)": {
 "ok": true,
 "found": 6,
-"new": 4,
-"secs": 7
+"new": 0,
+"secs": 5
 },
 "Remotive": {
 "ok": true,
@@ -1268,6 +1268,88 @@
 "category": "DevOps/Cloud",
 "is_kochi": false,
 "deadline": "2026-12-31",
+"first_seen": "2026-11-25",
+"last_seen": "2026-11-25"
+},
+{
+"title": "Data Analyst",
+"company": "Avexa Infotech Pvt. Ltd.",
+"location": "Chalakkudy, Kerala, India",
+"apply_url": "https://in.linkedin.com/jobs/view/data-analyst-at-avexa-infotech-pvt-ltd-4494923439",
+"source": "LinkedIn",
+"posted_or_email_date": "2026-11-25",
+"category": "Data",
+"is_kochi": false,
+"is_fresher": true,
+"experience_text": "LinkedIn: entry level / internship",
+"first_seen": "2026-11-25",
+"last_seen": "2026-11-25"
+},
+{
+"title": "Graduate Trainee – AI & ML, Bangalore",
+"company": "CGI",
+"location": "Bangalore, India",
+"apply_url": "https://offcampusjobs4u.com/cgi-graduate-trainee-ai-ml-technologies-bangalore/",
+"source": "OffCampusJobs4u (verify on careers site)",
+"posted_or_email_date": "2026-11-25",
+"category": "AI/ML",
+"is_kochi": false,
+"is_fresher": true,
+"job_type": "full-time",
+"first_seen": "2026-11-25",
+"last_seen": "2026-11-25"
+},
+{
+"title": "Software Engineering & Development Officer, Hyderabad",
+"company": "State Street",
+"location": "Hyderabad, India",
+"apply_url": "https://offcampusjobs4u.com/state-street-software-engineering-development-officer-hyderabad/",
+"source": "OffCampusJobs4u (verify on careers site)",
+"posted_or_email_date": "2026-11-25",
+"category": "Software Dev",
+"is_kochi": false,
+"job_type": "full-time",
+"first_seen": "2026-11-25",
+"last_seen": "2026-11-25"
+},
+{
+"title": "Software Engineer (Python, Kafka, GenAI), Bengaluru",
+"company": "Visa",
+"location": "Bengaluru, India",
+"apply_url": "https://offcampusjobs4u.com/visa-software-engineer-python-kafka-genai-bengaluru/",
+"source": "OffCampusJobs4u (verify on careers site)",
+"posted_or_email_date": "2026-11-25",
+"category": "AI/ML",
+"is_kochi": false,
+"job_type": "full-time",
+"first_seen": "2026-11-25",
+"last_seen": "2026-11-25"
+},
+{
+"title": "SOFTWARE TESTING TRAINEE",
+"company": "Softnotions Technologies (P) Ltd",
+"location": "Technopark, Thiruvananthapuram, Kerala",
+"apply_url": "https://technopark.in/job-details/34464",
+"source": "Technopark Jobs",
+"posted_or_email_date": "2026-11-25",
+"category": "Software Dev",
+"is_kochi": false,
+"is_fresher": true,
+"deadline": "2026-12-02",
+"first_seen": "2026-11-25",
+"last_seen": "2026-11-25"
+},
+{
+"title": "MERN STACK TRAINEE",
+"company": "Softnotions Technologies (P) Ltd",
+"location": "Technopark, Thiruvananthapuram, Kerala",
+"apply_url": "https://technopark.in/job-details/34463",
+"source": "Technopark Jobs",
+"posted_or_email_date": "2026-11-25",
+"category": "Web Dev",
+"is_kochi": false,
+"is_fresher": true,
+"deadline": "2026-12-02",
 "first_seen": "2026-11-25",
 "last_seen": "2026-11-25"
 },
@@ -2572,6 +2654,20 @@
 "last_seen": "2026-11-25"
 },
 {
+"title": "Platform Infrastructure Data Analyst",
+"company": "EY",
+"location": "Kochi, Kerala, India",
+"apply_url": "https://in.linkedin.com/jobs/view/platform-infrastructure-data-analyst-at-ey-4492603170",
+"source": "LinkedIn",
+"posted_or_email_date": "2026-11-23",
+"category": "Data",
+"is_kochi": true,
+"is_fresher": true,
+"experience_text": "LinkedIn: entry level / internship",
+"first_seen": "2026-11-25",
+"last_seen": "2026-11-25"
+},
+{
 "title": "Associate Software Developer",
 "company": "Delta Technology Hub",
 "location": "Bengaluru, Karnataka, India",
@@ -3481,7 +3577,8 @@
 "category": "Software Dev",
 "is_kochi": true,
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-25"
+"last_seen": "2026-11-25",
+"experience_text": "LinkedIn: entry level / internship"
 },
 {
 "title": "Salesforce Developer",
@@ -3674,6 +3771,34 @@
 "category": "AI/ML",
 "is_kochi": false,
 "deadline": "2026-12-20",
+"first_seen": "2026-11-25",
+"last_seen": "2026-11-25"
+},
+{
+"title": "Clinical Data Management SAS Programmer",
+"company": "IQVIA",
+"location": "Kochi, Kerala, India",
+"apply_url": "https://in.linkedin.com/jobs/view/clinical-data-management-sas-programmer-at-iqvia-4482955365",
+"source": "LinkedIn",
+"posted_or_email_date": "2026-11-20",
+"category": "Software Dev",
+"is_kochi": true,
+"is_fresher": true,
+"experience_text": "LinkedIn: entry level / internship",
+"first_seen": "2026-11-25",
+"last_seen": "2026-11-25"
+},
+{
+"title": "Azure DevOps Engineer (.NET Core)",
+"company": "Aitrich Technologies",
+"location": "Thrissur, Kerala, India",
+"apply_url": "https://in.linkedin.com/jobs/view/azure-devops-engineer-net-core-at-aitrich-technologies-4493235034",
+"source": "LinkedIn",
+"posted_or_email_date": "2026-11-20",
+"category": "DevOps/Cloud",
+"is_kochi": false,
+"is_fresher": true,
+"experience_text": "LinkedIn: entry level / internship",
 "first_seen": "2026-11-25",
 "last_seen": "2026-11-25"
 },
@@ -4617,6 +4742,18 @@
 "is_kochi": false,
 "is_fresher": true,
 "experience_text": "2+ years of data engineering experience - Experience with SQL - Experience with data modeling, warehousing and building ETL pipelines - Ex",
+"first_seen": "2026-11-25",
+"last_seen": "2026-11-25"
+},
+{
+"title": "Digital Cloud Solution Architecture",
+"company": "Microsoft",
+"location": "India, Karnataka, Bangalore; India, Maharashtra, Mumbai; India, Haryana, Gurgaon",
+"apply_url": "https://apply.careers.microsoft.com/careers/job/1970393557070272",
+"source": "Microsoft Careers",
+"posted_or_email_date": "2026-11-10",
+"category": "DevOps/Cloud",
+"is_kochi": false,
 "first_seen": "2026-11-25",
 "last_seen": "2026-11-25"
 },
