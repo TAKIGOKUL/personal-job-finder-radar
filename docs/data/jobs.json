@@ -1,59 +1,59 @@
 {
-"built": "25 Nov 2026, 15:12 UTC",
-"built_at": "2026-11-25T15:12:21+00:00",
+"built": "25 Nov 2026, 15:19 UTC",
+"built_at": "2026-11-25T15:19:49+00:00",
 "sources": {
 "LinkedIn": {
 "ok": true,
-"found": 560,
-"new": 184,
-"secs": 118
+"found": 148,
+"new": 0,
+"secs": 80
 },
 "Google Careers": {
 "ok": true,
-"found": 33,
-"new": 25,
-"secs": 5
+"found": 6,
+"new": 0,
+"secs": 4
 },
 "Amazon Jobs": {
 "ok": true,
-"found": 18,
-"new": 3,
-"secs": 9
+"found": 13,
+"new": 0,
+"secs": 10
 },
 "Microsoft Careers": {
 "ok": true,
-"found": 6,
-"new": 1,
+"found": 5,
+"new": 0,
 "secs": 18
 },
 "Workday careers (Adobe, NVIDIA, Intel, Salesforce)": {
 "ok": true,
-"found": 49,
-"new": 20,
-"secs": 39
+"found": 23,
+"new": 0,
+"secs": 37
 },
 "Telegram channels": {
 "ok": true,
-"found": 121,
-"new": 16,
+"found": 102,
+"new": 0,
 "secs": 12
 },
 "Fresher job blogs (RSS)": {
 "ok": true,
-"found": 11,
-"new": 5,
-"secs": 8
+"found": 7,
+"new": 1,
+"secs": 2
 },
 "Infopark": {
 "ok": true,
-"found": 63,
-"new": 53,
+"found": 10,
+"new": 0,
 "secs": 4
 },
 "Technopark": {
 "ok": true,
-"found": 120,
-"new": 99,
+"found": 18,
+"new": 0,
 "secs": 11
 },
 "Arbeitnow (Germany visa)": {
@@ -1350,6 +1350,20 @@
 "is_kochi": false,
 "is_fresher": true,
 "deadline": "2026-12-02",
+"first_seen": "2026-11-25",
+"last_seen": "2026-11-25"
+},
+{
+"title": "Associate Developer – IT, Coimbatore",
+"company": "Flex",
+"location": "Coimbatore, India",
+"apply_url": "https://offcampusjobs4u.com/flex-associate-developer-it-coimbatore/",
+"source": "OffCampusJobs4u (verify on careers site)",
+"posted_or_email_date": "2026-11-25",
+"category": "Software Dev",
+"is_kochi": false,
+"is_fresher": true,
+"job_type": "full-time",
 "first_seen": "2026-11-25",
 "last_seen": "2026-11-25"
 },
