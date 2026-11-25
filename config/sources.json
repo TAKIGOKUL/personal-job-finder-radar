@@ -1,0 +1,59 @@
+{
+  "linkedin": {
+    "keywords": [
+      "software engineer fresher",
+      "software developer",
+      "AI ML engineer",
+      "generative AI engineer",
+      "data analyst",
+      "data scientist",
+      "web developer",
+      "full stack developer",
+      "python developer",
+      "graduate engineer trainee",
+      "software engineer intern",
+      "devops cloud engineer"
+    ],
+    "locations": [
+      "Kochi, Kerala, India",
+      "Thiruvananthapuram, Kerala, India",
+      "Bengaluru, Karnataka, India",
+      "Chennai, Tamil Nadu, India",
+      "India"
+    ],
+    "walkin_locations": ["Kerala, India", "Chennai, Tamil Nadu, India", "Bengaluru, Karnataka, India"],
+    "remote_keywords": ["software engineer", "AI engineer", "data analyst", "full stack developer"],
+    "max_requests": 90
+  },
+  "telegram_channels": [
+    "gocareers",
+    "dot_aware",
+    "jobs_and_internships_updates",
+    "techuprise_updates",
+    "fresherearth",
+    "offcampus_phodenge"
+  ],
+  "rss_feeds": [
+    {"name": "OffCampusJobs4u", "url": "https://offcampusjobs4u.com/feed/"},
+    {"name": "Freshershunt", "url": "https://freshershunt.in/feed/"}
+  ],
+  "amazon_queries": ["software development engineer", "intern", "university graduate", "data engineer", "machine learning", "support engineer"],
+  "microsoft_queries": ["software engineer", "intern", "data scientist", "AI engineer", "support engineer"],
+  "google_levels": ["EARLY", "INTERN_AND_APPRENTICE"],
+  "workday": [
+    {"company": "Adobe", "host": "adobe.wd5.myworkdayjobs.com", "tenant": "adobe", "site": "external_experienced"},
+    {"company": "NVIDIA", "host": "nvidia.wd5.myworkdayjobs.com", "tenant": "nvidia", "site": "NVIDIAExternalCareerSite"},
+    {"company": "Intel", "host": "intel.wd1.myworkdayjobs.com", "tenant": "intel", "site": "External"},
+    {"company": "Salesforce", "host": "salesforce.wd12.myworkdayjobs.com", "tenant": "salesforce", "site": "External_Career_Site"}
+  ],
+  "workday_queries": ["intern India", "graduate India", "associate India", "software engineer India", "new grad India"],
+  "infopark_pages": [
+    "https://infopark.in/companies-job/infopark-kochi-phase-1",
+    "https://infopark.in/companies-job/infopark-kochi-phase-2",
+    "https://infopark.in/companies-job/infopark-thrissur",
+    "https://infopark.in/companies-job/infopark-cherthala"
+  ],
+  "technopark_pages": 6,
+  "arbeitnow_pages": 4,
+  "keep_days_without_sighting": 21
+}
