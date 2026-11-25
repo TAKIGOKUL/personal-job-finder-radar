@@ -61,6 +61,7 @@ jobs:
 
   deploy:
     needs: build-site
+    if: always() && needs.build-site.result == 'success'
     runs-on: ubuntu-latest
     environment:
       name: github-pages
