@@ -1,12 +1,12 @@
 {
-"built": "25 Nov 2026, 15:05 UTC",
-"built_at": "2026-11-25T15:05:49+00:00",
+"built": "25 Nov 2026, 15:12 UTC",
+"built_at": "2026-11-25T15:12:21+00:00",
 "sources": {
 "LinkedIn": {
 "ok": true,
-"found": 551,
+"found": 560,
 "new": 184,
-"secs": 120
+"secs": 118
 },
 "Google Careers": {
 "ok": true,
@@ -18,19 +18,19 @@
 "ok": true,
 "found": 18,
 "new": 3,
-"secs": 10
+"secs": 9
 },
 "Microsoft Careers": {
 "ok": true,
 "found": 6,
-"new": 2,
-"secs": 15
+"new": 1,
+"secs": 18
 },
 "Workday careers (Adobe, NVIDIA, Intel, Salesforce)": {
 "ok": true,
 "found": 49,
 "new": 20,
-"secs": 36
+"secs": 39
 },
 "Telegram channels": {
 "ok": true,
@@ -41,8 +41,8 @@
 "Fresher job blogs (RSS)": {
 "ok": true,
 "found": 11,
-"new": 8,
-"secs": 5
+"new": 5,
+"secs": 8
 },
 "Infopark": {
 "ok": true,
@@ -53,7 +53,7 @@
 "Technopark": {
 "ok": true,
 "found": 120,
-"new": 101,
+"new": 99,
 "secs": 11
 },
 "Arbeitnow (Germany visa)": {
@@ -2027,6 +2027,20 @@
 "country": "Germany",
 "visa_sponsorship": true,
 "experience_text": "Not stated",
+"first_seen": "2026-11-25",
+"last_seen": "2026-11-25"
+},
+{
+"title": "AI Engineer",
+"company": "Kavi India",
+"location": "Chennai, Tamil Nadu, India",
+"apply_url": "https://in.linkedin.com/jobs/view/ai-engineer-at-kavi-india-4494911941",
+"source": "LinkedIn",
+"posted_or_email_date": "2026-11-24",
+"category": "AI/ML",
+"is_kochi": false,
+"is_fresher": true,
+"experience_text": "LinkedIn: entry level / internship",
 "first_seen": "2026-11-25",
 "last_seen": "2026-11-25"
 },
