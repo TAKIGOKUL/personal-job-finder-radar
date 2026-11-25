@@ -44,13 +44,12 @@ jobs:
           git pull --rebase --autostash
           git push
 
-  deploy:
+  # Upload and deploy run as separate jobs: the artifact is fully finalized before
+  # deploy-pages looks it up (doing both in one job raced and failed once).
+  build-site:
     needs: scrape
     if: always() && (needs.scrape.result == 'success' || needs.scrape.result == 'skipped')
     runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
         with:
@@ -59,5 +58,20 @@ jobs:
       - uses: actions/upload-pages-artifact@v3
         with:
           path: docs
+
+  deploy:
+    needs: build-site
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: first_try
+        continue-on-error: true
+        uses: actions/deploy-pages@v4
+      - name: Wait before retrying
+        if: steps.first_try.outcome == 'failure'
+        run: sleep 30
       - id: deployment
+        if: steps.first_try.outcome == 'failure'
         uses: actions/deploy-pages@v4

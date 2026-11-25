@@ -637,6 +637,7 @@ def main(only=None):
         if found is None:
             stats[name] = {"ok": None, "note": "not configured"}
             continue
+        found = [j for j in found if j.get("category") != "Other" and j.get("is_fresher") is not False]
         new = 0
         for j in found:
             url = scrub_url(j["apply_url"])
