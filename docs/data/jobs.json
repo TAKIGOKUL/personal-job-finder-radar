@@ -1,12 +1,12 @@
 {
-"built": "27 Nov 2026, 10:00 UTC",
-"built_at": "2026-11-27T10:00:59+00:00",
+"built": "28 Nov 2026, 08:38 UTC",
+"built_at": "2026-11-28T08:38:30+00:00",
 "sources": {
 "LinkedIn": {
 "ok": true,
-"found": 62,
-"new": 16,
-"secs": 48
+"found": 153,
+"new": 31,
+"secs": 78
 },
 "Google Careers": {
 "ok": true,
@@ -17,49 +17,49 @@
 "Amazon Jobs": {
 "ok": true,
 "found": 14,
-"new": 1,
-"secs": 11
+"new": 0,
+"secs": 14
 },
 "Microsoft Careers": {
 "ok": true,
-"found": 5,
+"found": 8,
 "new": 1,
-"secs": 15
+"secs": 16
 },
 "Workday careers (Adobe, NVIDIA, Intel, Salesforce)": {
 "ok": true,
-"found": 24,
-"new": 2,
-"secs": 36
+"found": 17,
+"new": 1,
+"secs": 32
 },
 "Telegram channels": {
 "ok": true,
-"found": 97,
-"new": 31,
-"secs": 10
+"found": 89,
+"new": 21,
+"secs": 11
 },
 "Fresher job blogs (RSS)": {
 "ok": true,
-"found": 7,
-"new": 6,
-"secs": 2
+"found": 3,
+"new": 3,
+"secs": 3
 },
 "Infopark": {
 "ok": true,
 "found": 6,
-"new": 1,
+"new": 0,
 "secs": 4
 },
 "Technopark": {
 "ok": true,
-"found": 18,
-"new": 5,
+"found": 16,
+"new": 2,
 "secs": 12
 },
 "Arbeitnow (Germany visa)": {
 "ok": true,
-"found": 7,
-"new": 0,
+"found": 6,
+"new": 1,
 "secs": 5
 },
 "Remotive": {
@@ -75,6 +75,845 @@
 },
 "jobs": [
 {
+"title": "Java Full stack Developer",
+"company": "Altraize",
+"location": "Kerala, India",
+"apply_url": "https://in.linkedin.com/jobs/view/java-full-stack-developer-at-altraize-4495353609",
+"source": "LinkedIn",
+"posted_or_email_date": "2026-11-28",
+"category": "Web Dev",
+"is_kochi": false,
+"is_fresher": true,
+"experience_text": "LinkedIn: entry level / internship",
+"first_seen": "2026-11-28",
+"last_seen": "2026-11-28"
+},
+{
+"title": "Junior Application Developer - Fresher",
+"company": "My Sharp Trade",
+"location": "India",
+"apply_url": "https://www.linkedin.com/jobs/view/4493874469/",
+"source": "Telegram @fresherearth",
+"posted_or_email_date": "2026-11-28",
+"category": "Software Dev",
+"is_kochi": false,
+"is_fresher": true,
+"experience_text": "Fresher / Entry level",
+"first_seen": "2026-11-28",
+"last_seen": "2026-11-28"
+},
+{
+"title": "Software Engineer (Internship)",
+"company": "Improva",
+"location": "Coimbatore",
+"apply_url": "https://www.linkedin.com/jobs/view/4493878346/",
+"source": "Telegram @fresherearth",
+"posted_or_email_date": "2026-11-28",
+"category": "Software Dev",
+"is_kochi": false,
+"is_fresher": true,
+"experience_text": "Fresher / Entry level",
+"job_type": "internship",
+"first_seen": "2026-11-28",
+"last_seen": "2026-11-28"
+},
+{
+"title": "BACKEND DEVELOPER INTERN",
+"company": "MAZELPRIME TECHNOLOGIES PVT LTD",
+"location": "India",
+"apply_url": "https://www.linkedin.com/jobs/view/4495802081/",
+"source": "Telegram @fresherearth",
+"posted_or_email_date": "2026-11-28",
+"category": "Software Dev",
+"is_kochi": false,
+"is_fresher": true,
+"experience_text": "Fresher / Entry level",
+"job_type": "internship",
+"first_seen": "2026-11-28",
+"last_seen": "2026-11-28"
+},
+{
+"title": "Full-Stack AI Engineer Intern",
+"company": "Cognivac",
+"location": "Lucknow",
+"apply_url": "https://www.linkedin.com/jobs/view/4374960838/",
+"source": "Telegram @fresherearth",
+"posted_or_email_date": "2026-11-28",
+"category": "AI/ML",
+"is_kochi": false,
+"is_fresher": true,
+"experience_text": "Fresher / Entry level",
+"job_type": "internship",
+"first_seen": "2026-11-28",
+"last_seen": "2026-11-28"
+},
+{
+"title": "FRONTEND DEVELOPER INTERN",
+"company": "MAZELPRIME TECHNOLOGIES PVT LTD",
+"location": "India",
+"apply_url": "https://www.linkedin.com/jobs/view/4495802070/",
+"source": "Telegram @fresherearth",
+"posted_or_email_date": "2026-11-28",
+"category": "Web Dev",
+"is_kochi": false,
+"is_fresher": true,
+"experience_text": "Fresher / Entry level",
+"job_type": "internship",
+"first_seen": "2026-11-28",
+"last_seen": "2026-11-28"
+},
+{
+"title": "Engineer, Programmer Analyst - Nissan GBS",
+"company": "Renault Canteleu",
+"location": "Chennai",
+"apply_url": "https://www.linkedin.com/jobs/view/4495822570/",
+"source": "Telegram @fresherearth",
+"posted_or_email_date": "2026-11-28",
+"category": "Software Dev",
+"is_kochi": false,
+"is_fresher": true,
+"experience_text": "Fresher / Entry level",
+"first_seen": "2026-11-28",
+"last_seen": "2026-11-28"
+},
+{
+"title": "Software Development Engineering (App) Internship in Gurgaon",
+"company": "Internshala",
+"location": "Gurgaon",
+"apply_url": "https://www.linkedin.com/jobs/view/4496003162/",
+"source": "Telegram @fresherearth",
+"posted_or_email_date": "2026-11-28",
+"category": "Software Dev",
+"is_kochi": false,
+"is_fresher": true,
+"experience_text": "Fresher / Entry level",
+"job_type": "internship",
+"first_seen": "2026-11-28",
+"last_seen": "2026-11-28"
+},
+{
+"title": "Software Engineering Internship – SI & Open-Source Construction Ecosystem",
+"company": "JERRNI",
+"location": "Bengaluru",
+"apply_url": "https://www.linkedin.com/jobs/view/4495355051/",
+"source": "Telegram @fresherearth",
+"posted_or_email_date": "2026-11-28",
+"category": "Software Dev",
+"is_kochi": false,
+"is_fresher": true,
+"experience_text": "Fresher / Entry level",
+"job_type": "internship",
+"first_seen": "2026-11-28",
+"last_seen": "2026-11-28"
+},
+{
+"title": "Full Stack Development Internship in Chennai",
+"company": "Energy Alternatives India",
+"location": "Chennai",
+"apply_url": "https://www.linkedin.com/jobs/view/4495889716/",
+"source": "Telegram @fresherearth",
+"posted_or_email_date": "2026-11-28",
+"category": "Web Dev",
+"is_kochi": false,
+"is_fresher": true,
+"experience_text": "Fresher / Entry level",
+"job_type": "internship",
+"first_seen": "2026-11-28",
+"last_seen": "2026-11-28"
+},
+{
+"title": "[Embargo Media] Developer Intern Recruitment Smart Ring BLE Communication | React Native | SaaS Web Dashboard & Web Application",
+"company": "EmbargoMedia",
+"location": "India",
+"apply_url": "https://www.linkedin.com/jobs/view/4495099827/",
+"source": "Telegram @fresherearth",
+"posted_or_email_date": "2026-11-28",
+"category": "Mobile",
+"is_kochi": false,
+"is_fresher": true,
+"experience_text": "Fresher / Entry level",
+"job_type": "internship",
+"first_seen": "2026-11-28",
+"last_seen": "2026-11-28"
+},
+{
+"title": "Full-stack Developer",
+"company": "Inhova Technologies",
+"location": "Srinagar",
+"apply_url": "https://www.linkedin.com/jobs/view/4495372102/",
+"source": "Telegram @fresherearth",
+"posted_or_email_date": "2026-11-28",
+"category": "Software Dev",
+"is_kochi": false,
+"is_fresher": true,
+"experience_text": "Fresher / Entry level",
+"first_seen": "2026-11-28",
+"last_seen": "2026-11-28"
+},
+{
+"title": "Avionics System Engineer - Navigation Sensors",
+"company": "The Exploration Company",
+"location": "Munich, Germany",
+"apply_url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/avionics-system-engineer-navigation-sensors-munich-321895",
+"source": "Arbeitnow (visa sponsorship)",
+"posted_or_email_date": "2026-11-28",
+"category": "DevOps/Cloud",
+"is_kochi": false,
+"city": "Germany",
+"country": "Germany",
+"visa_sponsorship": true,
+"experience_text": "Not stated",
+"first_seen": "2026-11-28",
+"last_seen": "2026-11-28"
+},
+{
+"title": "Python Developer",
+"company": "Mygate",
+"location": "Kochi, Kerala, India",
+"apply_url": "https://in.linkedin.com/jobs/view/python-developer-at-mygate-4495076988",
+"source": "LinkedIn",
+"posted_or_email_date": "2026-11-27",
+"category": "Software Dev",
+"is_kochi": true,
+"is_fresher": true,
+"experience_text": "LinkedIn: entry level / internship",
+"first_seen": "2026-11-28",
+"last_seen": "2026-11-28"
+},
+{
+"title": "Frontend Developer (React.js / Angular)",
+"company": "Serville Technologies",
+"location": "Kochi, Kerala, India",
+"apply_url": "https://in.linkedin.com/jobs/view/frontend-developer-react-js-angular-at-serville-technologies-4495318299",
+"source": "LinkedIn",
+"posted_or_email_date": "2026-11-27",
+"category": "Web Dev",
+"is_kochi": true,
+"is_fresher": true,
+"experience_text": "LinkedIn: entry level / internship",
+"first_seen": "2026-11-28",
+"last_seen": "2026-11-28"
+},
+{
+"title": "Data Engineer ID89384",
+"company": "AgileEngine",
+"location": "Kochi, Kerala, India",
+"apply_url": "https://in.linkedin.com/jobs/view/data-engineer-id89384-at-agileengine-4495319167",
+"source": "LinkedIn",
+"posted_or_email_date": "2026-11-27",
+"category": "Data",
+"is_kochi": true,
+"is_fresher": true,
+"experience_text": "LinkedIn: entry level / internship",
+"first_seen": "2026-11-28",
+"last_seen": "2026-11-28"
+},
+{
+"title": "Software Engineer",
+"company": "Akamai Technologies",
+"location": "Bengaluru, Karnataka, India",
+"apply_url": "https://in.linkedin.com/jobs/view/software-engineer-at-akamai-technologies-4495820737",
+"source": "LinkedIn",
+"posted_or_email_date": "2026-11-27",
+"category": "Software Dev",
+"is_kochi": false,
+"is_fresher": true,
+"experience_text": "LinkedIn: entry level / internship",
+"first_seen": "2026-11-28",
+"last_seen": "2026-11-28"
+},
+{
+"title": "Software Engineer",
+"company": "TOMIA",
+"location": "Greater Bengaluru Area",
+"apply_url": "https://in.linkedin.com/jobs/view/software-engineer-at-tomia-4494221461",
+"source": "LinkedIn",
+"posted_or_email_date": "2026-11-27",
+"category": "Software Dev",
+"is_kochi": false,
+"is_fresher": true,
+"experience_text": "LinkedIn: entry level / internship",
+"first_seen": "2026-11-28",
+"last_seen": "2026-11-28"
+},
+{
+"title": "Associate Software Engineer - IT",
+"company": "Flex",
+"location": "Chennai, Tamil Nadu, India",
+"apply_url": "https://in.linkedin.com/jobs/view/associate-software-engineer-it-at-flex-4495301416",
+"source": "LinkedIn",
+"posted_or_email_date": "2026-11-27",
+"category": "Software Dev",
+"is_kochi": false,
+"is_fresher": true,
+"experience_text": "LinkedIn: entry level / internship",
+"first_seen": "2026-11-28",
+"last_seen": "2026-11-28"
+},
+{
+"title": "WordPress Developer",
+"company": "One MG",
+"location": "Chennai, Tamil Nadu, India",
+"apply_url": "https://in.linkedin.com/jobs/view/wordpress-developer-at-one-mg-4495095892",
+"source": "LinkedIn",
+"posted_or_email_date": "2026-11-27",
+"category": "Web Dev",
+"is_kochi": false,
+"is_fresher": true,
+"experience_text": "LinkedIn: entry level / internship",
+"first_seen": "2026-11-28",
+"last_seen": "2026-11-28"
+},
+{
+"title": "Dotnet Fullstack Developer - Supervising Associate",
+"company": "EY",
+"location": "Kochi, Kerala, India",
+"apply_url": "https://in.linkedin.com/jobs/view/dotnet-fullstack-developer-supervising-associate-at-ey-4495078415",
+"source": "LinkedIn",
+"posted_or_email_date": "2026-11-27",
+"category": "Web Dev",
+"is_kochi": true,
+"is_fresher": true,
+"experience_text": "LinkedIn: entry level / internship",
+"first_seen": "2026-11-28",
+"last_seen": "2026-11-28"
+},
+{
+"title": "Java Fullstack Developer",
+"company": "Citi",
+"location": "Chennai, Tamil Nadu, India",
+"apply_url": "https://in.linkedin.com/jobs/view/java-fullstack-developer-at-citi-4486913607",
+"source": "LinkedIn",
+"posted_or_email_date": "2026-11-27",
+"category": "Web Dev",
+"is_kochi": false,
+"is_fresher": true,
+"experience_text": "LinkedIn: entry level / internship",
+"first_seen": "2026-11-28",
+"last_seen": "2026-11-28"
+},
+{
+"title": "Java Software Engineer",
+"company": "TalentRabbit",
+"location": "Chennai, Tamil Nadu, India",
+"apply_url": "https://in.linkedin.com/jobs/view/java-software-engineer-at-talentrabbit-4494201304",
+"source": "LinkedIn",
+"posted_or_email_date": "2026-11-27",
+"category": "Software Dev",
+"is_kochi": false,
+"is_fresher": true,
+"experience_text": "LinkedIn: entry level / internship",
+"first_seen": "2026-11-28",
+"last_seen": "2026-11-28"
+},
+{
+"title": "ML Engineer",
+"company": "KeyValue",
+"location": "Kochi, Kerala, India",
+"apply_url": "https://in.linkedin.com/jobs/view/ml-engineer-at-keyvalue-4495881550",
+"source": "LinkedIn",
+"posted_or_email_date": "2026-11-27",
+"category": "AI/ML",
+"is_kochi": true,
+"is_fresher": true,
+"experience_text": "LinkedIn: entry level / internship",
+"first_seen": "2026-11-28",
+"last_seen": "2026-11-28"
+},
+{
+"title": "Machine Learning Engineer",
+"company": "KeyValue",
+"location": "Kochi, Kerala, India",
+"apply_url": "https://in.linkedin.com/jobs/view/machine-learning-engineer-at-keyvalue-4493499581",
+"source": "LinkedIn",
+"posted_or_email_date": "2026-11-27",
+"category": "AI/ML",
+"is_kochi": true,
+"is_fresher": true,
+"experience_text": "LinkedIn: entry level / internship",
+"first_seen": "2026-11-28",
+"last_seen": "2026-11-28"
+},
+{
+"title": "Machine Learning Engineer",
+"company": "HP",
+"location": "Bengaluru, Karnataka, India",
+"apply_url": "https://in.linkedin.com/jobs/view/machine-learning-engineer-at-hp-4495849000",
+"source": "LinkedIn",
+"posted_or_email_date": "2026-11-27",
+"category": "AI/ML",
+"is_kochi": false,
+"is_fresher": true,
+"experience_text": "LinkedIn: entry level / internship",
+"first_seen": "2026-11-28",
+"last_seen": "2026-11-28"
+},
+{
+"title": "AI engineer - Advisor",
+"company": "NTT DATA North America",
+"location": "Bangalore Urban, Karnataka, India",
+"apply_url": "https://in.linkedin.com/jobs/view/ai-engineer-advisor-at-ntt-data-north-america-4479526831",
+"source": "LinkedIn",
+"posted_or_email_date": "2026-11-27",
+"category": "AI/ML",
+"is_kochi": false,
+"is_fresher": true,
+"experience_text": "LinkedIn: entry level / internship",
+"first_seen": "2026-11-28",
+"last_seen": "2026-11-28"
+},
+{
+"title": "AI / ML Engineer (Large Language Models, Prompt Engineering, 8-12 yrs)",
+"company": "Archer",
+"location": "Bengaluru, Karnataka, India",
+"apply_url": "https://in.linkedin.com/jobs/view/ai-ml-engineer-large-language-models-prompt-engineering-8-12-yrs-at-archer-4495084184",
+"source": "LinkedIn",
+"posted_or_email_date": "2026-11-27",
+"category": "AI/ML",
+"is_kochi": false,
+"is_fresher": true,
+"experience_text": "LinkedIn: entry level / internship",
+"first_seen": "2026-11-28",
+"last_seen": "2026-11-28"
+},
+{
+"title": "Generative AI Engineer (6-10 Years)",
+"company": "KPMG India",
+"location": "New Delhi, Delhi, India",
+"apply_url": "https://in.linkedin.com/jobs/view/generative-ai-engineer-6-10-years-at-kpmg-india-4485329863",
+"source": "LinkedIn",
+"posted_or_email_date": "2026-11-27",
+"category": "AI/ML",
+"is_kochi": false,
+"is_fresher": true,
+"experience_text": "LinkedIn: entry level / internship",
+"first_seen": "2026-11-28",
+"last_seen": "2026-11-28"
+},
+{
+"title": "Data Analyst",
+"company": "Scoutit",
+"location": "Bengaluru, Karnataka, India",
+"apply_url": "https://in.linkedin.com/jobs/view/data-analyst-at-scoutit-4495097209",
+"source": "LinkedIn",
+"posted_or_email_date": "2026-11-27",
+"category": "Data",
+"is_kochi": false,
+"is_fresher": true,
+"experience_text": "LinkedIn: entry level / internship",
+"first_seen": "2026-11-28",
+"last_seen": "2026-11-28"
+},
+{
+"title": "Data Analytics 4",
+"company": "U.S. Bank",
+"location": "Chennai, Tamil Nadu, India",
+"apply_url": "https://in.linkedin.com/jobs/view/data-analytics-4-at-u-s-bank-4495593641",
+"source": "LinkedIn",
+"posted_or_email_date": "2026-11-27",
+"category": "Data",
+"is_kochi": false,
+"is_fresher": true,
+"experience_text": "LinkedIn: entry level / internship",
+"first_seen": "2026-11-28",
+"last_seen": "2026-11-28"
+},
+{
+"title": "Junior Analyst – Data Process & Automation",
+"company": "Team Everest NGO",
+"location": "Chennai, Tamil Nadu, India",
+"apply_url": "https://in.linkedin.com/jobs/view/junior-analyst-%E2%80%93-data-process-automation-at-team-everest-ngo-4495871986",
+"source": "LinkedIn",
+"posted_or_email_date": "2026-11-27",
+"category": "Software Dev",
+"is_kochi": false,
+"is_fresher": true,
+"experience_text": "LinkedIn: entry level / internship",
+"first_seen": "2026-11-28",
+"last_seen": "2026-11-28"
+},
+{
+"title": "Software Engineer",
+"company": "GIVA",
+"location": "Bengaluru, Karnataka, India",
+"apply_url": "https://in.linkedin.com/jobs/view/software-engineer-at-giva-4495806138",
+"source": "LinkedIn",
+"posted_or_email_date": "2026-11-27",
+"category": "Software Dev",
+"is_kochi": false,
+"is_fresher": true,
+"experience_text": "LinkedIn: entry level / internship",
+"first_seen": "2026-11-28",
+"last_seen": "2026-11-28"
+},
+{
+"title": "Technical Support Engineering - Azure Monitoring",
+"company": "Microsoft",
+"location": "India, Karnataka, Bangalore",
+"apply_url": "https://apply.careers.microsoft.com/careers/job/1970393557055942",
+"source": "Microsoft Careers",
+"posted_or_email_date": "2026-11-27",
+"category": "DevOps/Cloud",
+"is_kochi": false,
+"first_seen": "2026-11-28",
+"last_seen": "2026-11-28"
+},
+{
+"title": "Java Developer",
+"company": "Asego",
+"location": "Bangalore",
+"apply_url": "https://www.linkedin.com/jobs/view/4493884693/",
+"source": "Telegram @gocareers",
+"posted_or_email_date": "2026-11-27",
+"category": "Software Dev",
+"is_kochi": false,
+"is_fresher": true,
+"first_seen": "2026-11-28",
+"last_seen": "2026-11-28"
+},
+{
+"title": "LLM Full Stack Developer",
+"company": "Accenture in India",
+"location": "Pune",
+"apply_url": "https://www.accenture.com/in-en/careers/jobdetails?id=ATCI-5562629-S2025172_en",
+"source": "Telegram @gocareers",
+"posted_or_email_date": "2026-11-27",
+"category": "AI/ML",
+"is_kochi": false,
+"first_seen": "2026-11-28",
+"last_seen": "2026-11-28"
+},
+{
+"title": "Backend Developer",
+"company": "Mastek",
+"location": "Noida",
+"apply_url": "https://www.linkedin.com/jobs/view/4493810103/",
+"source": "Telegram @gocareers",
+"posted_or_email_date": "2026-11-27",
+"category": "Software Dev",
+"is_kochi": false,
+"is_fresher": true,
+"experience_text": "Batch 2021, 2022, 2023, 2024",
+"first_seen": "2026-11-28",
+"last_seen": "2026-11-28"
+},
+{
+"title": "Java Full Stack Developer",
+"company": "LOGILE",
+"location": "Bhuneshwar",
+"apply_url": "https://ats.rippling.com/logile/jobs/14f76bcb-825f-42ea-8b1b-dcdde1e2fd52",
+"source": "Telegram @gocareers",
+"posted_or_email_date": "2026-11-27",
+"category": "Web Dev",
+"is_kochi": false,
+"is_fresher": true,
+"experience_text": "Batch 2021, 2022, 2023, 2024",
+"first_seen": "2026-11-28",
+"last_seen": "2026-11-28"
+},
+{
+"title": "Software Engineer Specialist",
+"company": "LTM",
+"location": "Bangalore",
+"apply_url": "https://ltm.ripplehire.com/candidate/?token=U7vLjsnklz31Cev3a6Ai&lang=en",
+"source": "Telegram @gocareers",
+"posted_or_email_date": "2026-11-27",
+"category": "Software Dev",
+"is_kochi": false,
+"is_fresher": true,
+"experience_text": "Batch 2021, 2022",
+"first_seen": "2026-11-28",
+"last_seen": "2026-11-28"
+},
+{
+"title": "Backend and Full Stack Developer",
+"company": "Reliance Intelligence",
+"location": "Mumbai",
+"apply_url": "https://www.linkedin.com/jobs/view/4494990816/",
+"source": "Telegram @gocareers",
+"posted_or_email_date": "2026-11-27",
+"category": "Web Dev",
+"is_kochi": false,
+"is_fresher": true,
+"experience_text": "Batch 2021, 2022, 2023",
+"first_seen": "2026-11-28",
+"last_seen": "2026-11-28"
+},
+{
+"title": "Fresher opening",
+"company": "India tech jobs · 27 November",
+"location": "India",
+"apply_url": "https://go-careers.github.io/",
+"source": "Telegram @gocareers",
+"posted_or_email_date": "2026-11-27",
+"category": "AI/ML",
+"is_kochi": false,
+"is_fresher": true,
+"first_seen": "2026-11-28",
+"last_seen": "2026-11-28"
+},
+{
+"title": "Frontend Intern",
+"company": "Truefoundry",
+"location": "India",
+"apply_url": "https://app.careerpuck.com/job-board/truefoundry/job/5127144008",
+"source": "Telegram @jobs_and_internships_updates",
+"posted_or_email_date": "2026-11-27",
+"category": "Web Dev",
+"is_kochi": false,
+"is_fresher": true,
+"experience_text": "Batch 2027, 2028 & 2029 graduates",
+"job_type": "internship",
+"first_seen": "2026-11-28",
+"last_seen": "2026-11-28"
+},
+{
+"title": "Software Test Engineer",
+"company": "DigiTatva",
+"location": "Ahmedabad",
+"apply_url": "https://www.linkedin.com/jobs/view/4493874255/",
+"source": "Telegram @fresherearth",
+"posted_or_email_date": "2026-11-27",
+"category": "Software Dev",
+"is_kochi": false,
+"is_fresher": true,
+"experience_text": "Fresher / Entry level",
+"first_seen": "2026-11-28",
+"last_seen": "2026-11-28"
+},
+{
+"title": "AI/ML Engineer – Medical Imaging & Healthcare Technology",
+"company": "ONE Simulation",
+"location": "Noida",
+"apply_url": "https://www.linkedin.com/jobs/view/4495070587/",
+"source": "Telegram @fresherearth",
+"posted_or_email_date": "2026-11-27",
+"category": "AI/ML",
+"is_kochi": false,
+"is_fresher": true,
+"experience_text": "Fresher / Entry level",
+"first_seen": "2026-11-28",
+"last_seen": "2026-11-28"
+},
+{
+"title": "Application Developer Programmer Analyst",
+"company": "Citigroup",
+"location": "India",
+"apply_url": "https://offcampusjobs4u.com/citigroup-recruitment-2026-application-developer-programmer-analyst/",
+"source": "OffCampusJobs4u (verify on careers site)",
+"posted_or_email_date": "2026-11-27",
+"category": "Software Dev",
+"is_kochi": false,
+"job_type": "full-time",
+"first_seen": "2026-11-28",
+"last_seen": "2026-11-28"
+},
+{
+"title": "Software Specialist (SCADA / Networking)",
+"company": "GE Vernova",
+"location": "India",
+"apply_url": "https://offcampusjobs4u.com/ge-vernova-recruitment-2026-software-specialist-scada-networking/",
+"source": "OffCampusJobs4u (verify on careers site)",
+"posted_or_email_date": "2026-11-27",
+"category": "Software Dev",
+"is_kochi": false,
+"job_type": "full-time",
+"first_seen": "2026-11-28",
+"last_seen": "2026-11-28"
+},
+{
+"title": "Software Engineer Trainee | Chennai",
+"company": "Soft Suave",
+"location": "Chennai, India",
+"apply_url": "https://offcampusjobs4u.com/soft-suave-walk-in-drive-2026-software-engineer-trainee-chennai-3/",
+"source": "OffCampusJobs4u (verify on careers site)",
+"posted_or_email_date": "2026-11-27",
+"category": "Software Dev",
+"is_kochi": false,
+"is_fresher": true,
+"job_type": "walk-in",
+"first_seen": "2026-11-28",
+"last_seen": "2026-11-28"
+},
+{
+"title": "Salesforce Developer",
+"company": "Xminds Infotech (P) Ltd",
+"location": "Technopark, Thiruvananthapuram, Kerala",
+"apply_url": "https://technopark.in/job-details/34514",
+"source": "Technopark Jobs",
+"posted_or_email_date": "2026-11-27",
+"category": "Software Dev",
+"is_kochi": false,
+"deadline": "2026-12-31",
+"first_seen": "2026-11-28",
+"last_seen": "2026-11-28"
+},
+{
+"title": "QA Engineer",
+"company": "EDIFY DATASCIENCE (P) Ltd",
+"location": "Technopark, Thiruvananthapuram, Kerala",
+"apply_url": "https://technopark.in/job-details/34509",
+"source": "Technopark Jobs",
+"posted_or_email_date": "2026-11-27",
+"category": "Software Dev",
+"is_kochi": false,
+"deadline": "2026-12-15",
+"first_seen": "2026-11-28",
+"last_seen": "2026-11-28"
+},
+{
+"title": "LLM Model Developer",
+"company": "Accenture in India",
+"location": "Bengaluru, Karnataka, India",
+"apply_url": "https://in.linkedin.com/jobs/view/llm-model-developer-at-accenture-in-india-4495505943",
+"source": "LinkedIn",
+"posted_or_email_date": "2026-11-26",
+"category": "AI/ML",
+"is_kochi": false,
+"is_fresher": true,
+"experience_text": "LinkedIn: entry level / internship",
+"first_seen": "2026-11-28",
+"last_seen": "2026-11-28"
+},
+{
+"title": "Prompt Engineer in Mumbai, Bangalore, Chennai, Coimbatore, Pune, Hyderabad (Hybrid)",
+"company": "Appzeon",
+"location": "Chennai, Tamil Nadu, India",
+"apply_url": "https://in.linkedin.com/jobs/view/prompt-engineer-in-mumbai-bangalore-chennai-coimbatore-pune-hyderabad-hybrid-at-appzeon-4495228342",
+"source": "LinkedIn",
+"posted_or_email_date": "2026-11-26",
+"category": "AI/ML",
+"is_kochi": false,
+"is_fresher": true,
+"experience_text": "LinkedIn: entry level / internship",
+"first_seen": "2026-11-28",
+"last_seen": "2026-11-28"
+},
+{
+"title": "Master Data Analyst, Commercial",
+"company": "NKT",
+"location": "Chennai, Tamil Nadu, India",
+"apply_url": "https://in.linkedin.com/jobs/view/master-data-analyst-commercial-at-nkt-4442079130",
+"source": "LinkedIn",
+"posted_or_email_date": "2026-11-26",
+"category": "Data",
+"is_kochi": false,
+"is_fresher": true,
+"experience_text": "LinkedIn: entry level / internship",
+"first_seen": "2026-11-28",
+"last_seen": "2026-11-28"
+},
+{
+"title": "Data Analyst - Data Remediation - Mumbai",
+"company": "Capco",
+"location": "Mumbai, Maharashtra, India",
+"apply_url": "https://in.linkedin.com/jobs/view/data-analyst-data-remediation-mumbai-at-capco-4415527312",
+"source": "LinkedIn",
+"posted_or_email_date": "2026-11-26",
+"category": "Data",
+"is_kochi": false,
+"is_fresher": true,
+"experience_text": "LinkedIn: entry level / internship",
+"first_seen": "2026-11-28",
+"last_seen": "2026-11-28"
+},
+{
+"title": "Developer, Application",
+"company": "Flex",
+"location": "Chennai, Tamil Nadu, India",
+"apply_url": "https://in.linkedin.com/jobs/view/developer-application-at-flex-4495020638",
+"source": "LinkedIn",
+"posted_or_email_date": "2026-11-26",
+"category": "Software Dev",
+"is_kochi": false,
+"is_fresher": true,
+"experience_text": "LinkedIn: entry level / internship",
+"first_seen": "2026-11-28",
+"last_seen": "2026-11-28"
+},
+{
+"title": "React.js Developer",
+"company": "CloudLIMS",
+"location": "Indore, Madhya Pradesh, India",
+"apply_url": "https://in.linkedin.com/jobs/view/react-js-developer-at-cloudlims-4495015580",
+"source": "LinkedIn",
+"posted_or_email_date": "2026-11-26",
+"category": "Web Dev",
+"is_kochi": false,
+"is_fresher": true,
+"experience_text": "LinkedIn: entry level / internship",
+"first_seen": "2026-11-28",
+"last_seen": "2026-11-28"
+},
+{
+"title": "Web Developer",
+"company": "Blackbaud India",
+"location": "Hyderabad, Telangana, India",
+"apply_url": "https://in.linkedin.com/jobs/view/web-developer-at-blackbaud-india-4468797468",
+"source": "LinkedIn",
+"posted_or_email_date": "2026-11-26",
+"category": "Web Dev",
+"is_kochi": false,
+"is_fresher": true,
+"experience_text": "LinkedIn: entry level / internship",
+"first_seen": "2026-11-28",
+"last_seen": "2026-11-28"
+},
+{
+"title": "Data Analyst",
+"company": "Tricog Health",
+"location": "Bengaluru, Karnataka, India",
+"apply_url": "https://in.linkedin.com/jobs/view/data-analyst-at-tricog-health-4493440083",
+"source": "LinkedIn",
+"posted_or_email_date": "2026-11-25",
+"category": "Data",
+"is_kochi": false,
+"is_fresher": true,
+"experience_text": "LinkedIn: entry level / internship",
+"first_seen": "2026-11-28",
+"last_seen": "2026-11-28"
+},
+{
+"title": "Advanced Analytics Analyst",
+"company": "Commonwealth Bank",
+"location": "Bengaluru East, Karnataka, India",
+"apply_url": "https://in.linkedin.com/jobs/view/advanced-analytics-analyst-at-commonwealth-bank-4493389671",
+"source": "LinkedIn",
+"posted_or_email_date": "2026-11-25",
+"category": "Data",
+"is_kochi": false,
+"is_fresher": true,
+"experience_text": "LinkedIn: entry level / internship",
+"first_seen": "2026-11-28",
+"last_seen": "2026-11-28"
+},
+{
+"title": "ISC Data Analyst",
+"company": "nVent",
+"location": "Bengaluru, Karnataka, India",
+"apply_url": "https://in.linkedin.com/jobs/view/isc-data-analyst-at-nvent-4486862080",
+"source": "LinkedIn",
+"posted_or_email_date": "2026-11-24",
+"category": "Data",
+"is_kochi": false,
+"is_fresher": true,
+"experience_text": "LinkedIn: entry level / internship",
+"first_seen": "2026-11-28",
+"last_seen": "2026-11-28"
+},
+{
+"title": "Linux Integration and Automation Engineer",
+"company": "Intel",
+"location": "India, Bangalore",
+"apply_url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/India-Bangalore/Linux-Integration-and-Automation-Engineer_JR0289173",
+"source": "Intel Careers",
+"posted_or_email_date": "2026-11-17",
+"category": "Software Dev",
+"is_kochi": false,
+"first_seen": "2026-11-28",
+"last_seen": "2026-11-28"
+},
+{
 "title": "Dotnet Developer",
 "company": "Xcubated Business Solutions (XBS)",
 "location": "Kochi, Kerala, India",
@@ -86,7 +925,7 @@
 "is_fresher": true,
 "experience_text": "LinkedIn: entry level / internship",
 "first_seen": "2026-11-27",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "AI /ML Engineer",
@@ -100,7 +939,7 @@
 "is_fresher": true,
 "experience_text": "LinkedIn: entry level / internship",
 "first_seen": "2026-11-27",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Software Engineer",
@@ -112,7 +951,7 @@
 "category": "Software Dev",
 "is_kochi": false,
 "first_seen": "2026-11-27",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Embedded Firmware Engineer",
@@ -136,7 +975,7 @@
 "category": "Web Dev",
 "is_kochi": false,
 "first_seen": "2026-11-27",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "A Fortune 500 Financial Data Titan is hiring through AccioJob's Pune Campus Drive!",
@@ -152,7 +991,7 @@
 "salary_text": "₹10 LPA",
 "salary_min_monthly_inr": 83333,
 "first_seen": "2026-11-27",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Python Developer",
@@ -440,7 +1279,7 @@
 "is_kochi": true,
 "deadline": "2026-12-27",
 "first_seen": "2026-11-27",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "QA Engineer",
@@ -468,7 +1307,7 @@
 "is_fresher": true,
 "experience_text": "LinkedIn: entry level / internship",
 "first_seen": "2026-11-27",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "AI Engineer – P&B",
@@ -482,7 +1321,7 @@
 "is_fresher": true,
 "experience_text": "LinkedIn: entry level / internship",
 "first_seen": "2026-11-27",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "AI Engineer – Advisory",
@@ -496,7 +1335,7 @@
 "is_fresher": true,
 "experience_text": "LinkedIn: entry level / internship",
 "first_seen": "2026-11-27",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Software Engineer - I",
@@ -538,7 +1377,7 @@
 "is_fresher": true,
 "experience_text": "LinkedIn: entry level / internship",
 "first_seen": "2026-11-27",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "TC-CS-CAOE-AI Data scientist",
@@ -552,7 +1391,7 @@
 "is_fresher": true,
 "experience_text": "LinkedIn: entry level / internship",
 "first_seen": "2026-11-27",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "AI Engineer",
@@ -566,7 +1405,7 @@
 "is_fresher": true,
 "experience_text": "LinkedIn: entry level / internship",
 "first_seen": "2026-11-27",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Machine Learning Engineer",
@@ -580,7 +1419,7 @@
 "is_fresher": true,
 "experience_text": "LinkedIn: entry level / internship",
 "first_seen": "2026-11-27",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Founding AI Engineer-AI Agents",
@@ -608,7 +1447,7 @@
 "is_fresher": true,
 "experience_text": "LinkedIn: entry level / internship",
 "first_seen": "2026-11-27",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Prompt Engineer in Bangalore, Pune, Hyderabad, Mumbai, Chennai, Coimbatore (Hybrid)",
@@ -636,7 +1475,7 @@
 "is_fresher": true,
 "experience_text": "1+ years of data engineering experience - Experience with SQL - Experience with data modeling, warehousing and building ETL pipelines - Ex",
 "first_seen": "2026-11-27",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Software Engineer I",
@@ -652,7 +1491,7 @@
 "salary_text": "12-16 LPA",
 "salary_min_monthly_inr": 100000,
 "first_seen": "2026-11-27",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Software Development Engineer I",
@@ -668,7 +1507,7 @@
 "salary_text": "14-18 LPA",
 "salary_min_monthly_inr": 116666,
 "first_seen": "2026-11-27",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Full Stack Developer",
@@ -683,7 +1522,7 @@
 "salary_text": "8-12 LPA",
 "salary_min_monthly_inr": 66666,
 "first_seen": "2026-11-27",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Software Engineer, Onboarding",
@@ -698,7 +1537,7 @@
 "salary_text": "8-12 LPA",
 "salary_min_monthly_inr": 66666,
 "first_seen": "2026-11-27",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Associate Software Engineer",
@@ -714,7 +1553,7 @@
 "salary_text": "6-8 LPA",
 "salary_min_monthly_inr": 50000,
 "first_seen": "2026-11-27",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Software Engineer Intern",
@@ -729,7 +1568,7 @@
 "experience_text": "Batch 2027, 2028 & 2029 graduates",
 "job_type": "internship",
 "first_seen": "2026-11-27",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Fresher opening",
@@ -743,7 +1582,7 @@
 "is_fresher": true,
 "experience_text": "Batch 2027, 2028 & 2029 graduates",
 "first_seen": "2026-11-27",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "AI Engineering Intern",
@@ -758,7 +1597,7 @@
 "experience_text": "Batch 2027, 2028 & 2029 graduates",
 "job_type": "internship",
 "first_seen": "2026-11-27",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Gen AI Intern",
@@ -773,7 +1612,7 @@
 "experience_text": "Batch 2027 & 2028 graduates",
 "job_type": "internship",
 "first_seen": "2026-11-27",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Machine Learning Intern",
@@ -790,7 +1629,7 @@
 "salary_min_monthly_inr": 75000,
 "job_type": "internship",
 "first_seen": "2026-11-27",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "AI/ML Intern",
@@ -805,7 +1644,7 @@
 "experience_text": "Batch 2027, 2028 & 2029 graduates",
 "job_type": "internship",
 "first_seen": "2026-11-27",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Engineering Intern",
@@ -820,7 +1659,7 @@
 "experience_text": "Batch 2027, 2028 & 2029 graduates",
 "job_type": "internship",
 "first_seen": "2026-11-27",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": ".NET Developer – Pune",
@@ -900,7 +1739,7 @@
 "is_kochi": false,
 "deadline": "2026-12-26",
 "first_seen": "2026-11-27",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "DevOps Engineer",
@@ -913,7 +1752,7 @@
 "is_kochi": false,
 "deadline": "2026-12-31",
 "first_seen": "2026-11-27",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "AI Engineer",
@@ -926,7 +1765,7 @@
 "is_kochi": false,
 "deadline": "2026-12-31",
 "first_seen": "2026-11-27",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "DevOps Engineer",
@@ -939,7 +1778,7 @@
 "is_kochi": false,
 "deadline": "2026-12-31",
 "first_seen": "2026-11-27",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "AI Transformation Leader",
@@ -952,7 +1791,7 @@
 "is_kochi": false,
 "deadline": "2026-12-12",
 "first_seen": "2026-11-27",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Junior Developer – Tech Team",
@@ -966,7 +1805,7 @@
 "is_fresher": true,
 "experience_text": "LinkedIn: entry level / internship",
 "first_seen": "2026-11-27",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "AI Solution Engineer",
@@ -980,7 +1819,7 @@
 "is_fresher": true,
 "experience_text": "LinkedIn: entry level / internship",
 "first_seen": "2026-11-26",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Python Developer",
@@ -1036,7 +1875,7 @@
 "is_fresher": true,
 "experience_text": "LinkedIn: entry level / internship",
 "first_seen": "2026-11-26",
-"last_seen": "2026-11-26"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Data Analyst",
@@ -1064,7 +1903,7 @@
 "is_fresher": true,
 "experience_text": "LinkedIn: entry level / internship",
 "first_seen": "2026-11-26",
-"last_seen": "2026-11-26"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Engineer, Software Dev.",
@@ -1078,7 +1917,7 @@
 "is_fresher": true,
 "experience_text": "LinkedIn: entry level / internship",
 "first_seen": "2026-11-26",
-"last_seen": "2026-11-26"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Full Stack Developer - Django, React, Reactjs",
@@ -1092,7 +1931,7 @@
 "is_fresher": true,
 "experience_text": "LinkedIn: entry level / internship",
 "first_seen": "2026-11-26",
-"last_seen": "2026-11-26"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Mechancial Engineer_Graduate Engineering Trainee",
@@ -1120,7 +1959,7 @@
 "is_fresher": true,
 "experience_text": "LinkedIn: entry level / internship",
 "first_seen": "2026-11-26",
-"last_seen": "2026-11-27",
+"last_seen": "2026-11-28",
 "job_type": "internship"
 },
 {
@@ -1501,7 +2340,7 @@
 "visa_sponsorship": true,
 "experience_text": "Not stated",
 "first_seen": "2026-11-26",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Software Engineer",
@@ -1515,7 +2354,7 @@
 "is_fresher": true,
 "experience_text": "LinkedIn: entry level / internship",
 "first_seen": "2026-11-26",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "MERN Stack Developer",
@@ -1529,7 +2368,7 @@
 "is_fresher": true,
 "experience_text": "LinkedIn: entry level / internship",
 "first_seen": "2026-11-26",
-"last_seen": "2026-11-26"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Python Django Developer",
@@ -1543,7 +2382,7 @@
 "is_fresher": true,
 "experience_text": "LinkedIn: entry level / internship",
 "first_seen": "2026-11-26",
-"last_seen": "2026-11-26"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Generative AI Engineer",
@@ -1557,7 +2396,7 @@
 "is_fresher": true,
 "experience_text": "LinkedIn: entry level / internship",
 "first_seen": "2026-11-26",
-"last_seen": "2026-11-26"
+"last_seen": "2026-11-28"
 },
 {
 "title": "AI Engineer — Chennai",
@@ -1571,7 +2410,7 @@
 "is_fresher": true,
 "experience_text": "LinkedIn: entry level / internship",
 "first_seen": "2026-11-26",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Frontend Developer",
@@ -1585,7 +2424,7 @@
 "is_fresher": true,
 "experience_text": "LinkedIn: entry level / internship",
 "first_seen": "2026-11-26",
-"last_seen": "2026-11-26"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Software Developer [Python + PostgreSQL]",
@@ -1681,7 +2520,7 @@
 "is_fresher": true,
 "experience_text": "2+ years of troubleshooting in a multi-user high availability environment experience - 2+ years of networking (such as DNS, DHCP, SSL, OSI",
 "first_seen": "2026-11-26",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Technical Support Advisory",
@@ -1693,7 +2532,7 @@
 "category": "DevOps/Cloud",
 "is_kochi": false,
 "first_seen": "2026-11-26",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Technical Support Engineering- SHA",
@@ -1705,7 +2544,7 @@
 "category": "DevOps/Cloud",
 "is_kochi": false,
 "first_seen": "2026-11-26",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Technical Support Engineering D & D",
@@ -1717,7 +2556,7 @@
 "category": "DevOps/Cloud",
 "is_kochi": false,
 "first_seen": "2026-11-26",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Technical Support Engineering Networking",
@@ -1753,7 +2592,7 @@
 "category": "Software Dev",
 "is_kochi": false,
 "first_seen": "2026-11-26",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Software Engineer Intern",
@@ -1768,7 +2607,7 @@
 "experience_text": "Batch 2027, 2028",
 "job_type": "internship",
 "first_seen": "2026-11-26",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Software Engineer",
@@ -1782,7 +2621,7 @@
 "is_fresher": true,
 "experience_text": "Batch 2021, 2022, 2023, 2024",
 "first_seen": "2026-11-26",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Application Software Engineer",
@@ -1798,7 +2637,7 @@
 "visa_sponsorship": true,
 "experience_text": "Not stated",
 "first_seen": "2026-11-26",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Data Engineer, Data Quality & Provenance",
@@ -1814,7 +2653,7 @@
 "visa_sponsorship": true,
 "experience_text": "Not stated",
 "first_seen": "2026-11-26",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Software Engineer, Android",
@@ -1842,7 +2681,7 @@
 "is_fresher": true,
 "experience_text": "LinkedIn: entry level / internship",
 "first_seen": "2026-11-26",
-"last_seen": "2026-11-26"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Applied AI Engineer (RAG, Agents & Multilingual AI)",
@@ -1856,7 +2695,7 @@
 "is_fresher": true,
 "experience_text": "LinkedIn: entry level / internship",
 "first_seen": "2026-11-26",
-"last_seen": "2026-11-26"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Full Stack Developer (Python)",
@@ -1982,7 +2821,7 @@
 "is_fresher": true,
 "experience_text": "LinkedIn: entry level / internship",
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Software Dev Engineer I, Amazon University Talent Acquisition",
@@ -1996,7 +2835,7 @@
 "is_fresher": true,
 "experience_text": "LinkedIn: entry level / internship",
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Software Engineer, Web",
@@ -2010,7 +2849,7 @@
 "is_fresher": true,
 "experience_text": "LinkedIn: entry level / internship",
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "AI Application Engineer Associate",
@@ -2052,7 +2891,7 @@
 "is_fresher": true,
 "experience_text": "LinkedIn: entry level / internship",
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-26"
+"last_seen": "2026-11-28"
 },
 {
 "title": "DEVELOPER L3",
@@ -2122,7 +2961,7 @@
 "is_fresher": true,
 "experience_text": "LinkedIn: entry level / internship",
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-26"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Data Analyst",
@@ -2150,7 +2989,7 @@
 "is_fresher": true,
 "experience_text": "LinkedIn: entry level / internship",
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-26"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Data Analyst",
@@ -2164,7 +3003,7 @@
 "is_fresher": true,
 "experience_text": "LinkedIn: entry level / internship",
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-26"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Data Scientist-Artificial Intelligence",
@@ -2178,7 +3017,7 @@
 "is_fresher": true,
 "experience_text": "LinkedIn: entry level / internship",
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-26"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Software Developer Engineer - Full Stack",
@@ -2192,7 +3031,7 @@
 "is_fresher": true,
 "experience_text": "LinkedIn: entry level / internship",
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-26"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Application Developer - Front End (Angular UI Developer)",
@@ -2206,7 +3045,7 @@
 "is_fresher": true,
 "experience_text": "LinkedIn: entry level / internship",
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-26"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Software Engineer, UI (Angular) - Bengaluru",
@@ -2234,7 +3073,7 @@
 "is_fresher": true,
 "experience_text": "LinkedIn: entry level / internship",
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-26"
+"last_seen": "2026-11-28"
 },
 {
 "title": "MERN Full Stack Developer",
@@ -2374,7 +3213,7 @@
 "is_fresher": true,
 "experience_text": "LinkedIn: entry level / internship",
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-27",
+"last_seen": "2026-11-28",
 "job_type": "internship"
 },
 {
@@ -2565,7 +3404,7 @@
 "job_type": "full-time",
 "experience_text": "Google: Early career",
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Cloud Engineer, Data and AI",
@@ -2580,7 +3419,7 @@
 "job_type": "full-time",
 "experience_text": "Google: Early career",
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Forward Deployed Engineer Intern, 2027",
@@ -2610,7 +3449,7 @@
 "job_type": "internship",
 "experience_text": "Google: Intern / apprentice",
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Software Engineering PhD Intern, Summer 2027",
@@ -2625,7 +3464,7 @@
 "job_type": "internship",
 "experience_text": "Google: Intern / apprentice",
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Technical Support Engineering App services Config",
@@ -2673,7 +3512,8 @@
 "category": "Software Dev",
 "is_kochi": false,
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28",
+"experience_text": "Batch 2021, 2022, 2023, 2024"
 },
 {
 "title": "Software Application Development Engineer",
@@ -2685,7 +3525,7 @@
 "category": "Software Dev",
 "is_kochi": false,
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Systems Engineer - Workday HCM",
@@ -2697,7 +3537,7 @@
 "category": "DevOps/Cloud",
 "is_kochi": false,
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Software Engineering LMTS (Database Engineering)",
@@ -2709,7 +3549,7 @@
 "category": "Software Dev",
 "is_kochi": false,
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "PMTS, Software Engineering",
@@ -2733,7 +3573,7 @@
 "category": "Software Dev",
 "is_kochi": false,
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Software Engineer Intern",
@@ -2747,7 +3587,7 @@
 "is_fresher": true,
 "job_type": "internship",
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Backend Developer",
@@ -2759,7 +3599,7 @@
 "category": "Software Dev",
 "is_kochi": false,
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-27",
+"last_seen": "2026-11-28",
 "experience_text": "Batch 2021, 2022, 2023, 2024"
 },
 {
@@ -2773,7 +3613,7 @@
 "is_kochi": false,
 "is_fresher": true,
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-27",
+"last_seen": "2026-11-28",
 "experience_text": "Batch 2022, 2023, 2024, 2025"
 },
 {
@@ -2788,7 +3628,7 @@
 "is_fresher": true,
 "experience_text": "Freshers eligible",
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Junior Web Developer",
@@ -3103,19 +3943,6 @@
 "last_seen": "2026-11-27"
 },
 {
-"title": "AI Search & Agentic Growth Specialist (LLM SEO)",
-"company": "Mozilor Technologies Pvt. Ltd.",
-"location": "Infopark, Kochi, Kerala",
-"apply_url": "https://infopark.in/company-jobs/details/333/27000",
-"source": "Infopark Jobs",
-"posted_or_email_date": "2026-11-25",
-"category": "AI/ML",
-"is_kochi": true,
-"deadline": "2026-11-26",
-"first_seen": "2026-11-25",
-"last_seen": "2026-11-27"
-},
-{
 "title": "FLUTTER TRAINEE",
 "company": "Softnotions Technologies (P) Ltd",
 "location": "Technopark, Thiruvananthapuram, Kerala",
@@ -3127,7 +3954,7 @@
 "is_fresher": true,
 "deadline": "2026-12-02",
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "DevOps Engineer",
@@ -3140,7 +3967,7 @@
 "is_kochi": false,
 "deadline": "2026-12-31",
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Data Analyst",
@@ -3208,7 +4035,7 @@
 "is_fresher": true,
 "deadline": "2026-12-02",
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "MERN STACK TRAINEE",
@@ -3222,7 +4049,7 @@
 "is_fresher": true,
 "deadline": "2026-12-02",
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Associate Developer – IT, Coimbatore",
@@ -3250,7 +4077,7 @@
 "is_fresher": true,
 "experience_text": "LinkedIn: entry level / internship",
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-26"
+"last_seen": "2026-11-28"
 },
 {
 "title": "SW Engineer (Python, Kafka, GenAI; Exp: 6 months-24 months only)",
@@ -3264,7 +4091,7 @@
 "is_fresher": true,
 "experience_text": "LinkedIn: entry level / internship",
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Software Engineering Specialist",
@@ -3278,7 +4105,7 @@
 "is_fresher": true,
 "experience_text": "LinkedIn: entry level / internship",
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Software Development Engineer 1-2",
@@ -3306,7 +4133,7 @@
 "is_fresher": true,
 "experience_text": "LinkedIn: entry level / internship",
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Software Engineer",
@@ -3320,7 +4147,7 @@
 "is_fresher": true,
 "experience_text": "LinkedIn: entry level / internship",
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Junior Backend Developer",
@@ -3334,7 +4161,7 @@
 "is_fresher": true,
 "experience_text": "LinkedIn: entry level / internship",
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Software Engineer",
@@ -3418,7 +4245,7 @@
 "is_fresher": true,
 "experience_text": "LinkedIn: entry level / internship",
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "AI / ML Engineer",
@@ -3432,7 +4259,7 @@
 "is_fresher": true,
 "experience_text": "LinkedIn: entry level / internship",
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Artificial Intelligence Engineer",
@@ -3446,7 +4273,7 @@
 "is_fresher": true,
 "experience_text": "LinkedIn: entry level / internship",
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Software Engineer- Frontend (React)",
@@ -3474,7 +4301,7 @@
 "is_fresher": true,
 "experience_text": "LinkedIn: entry level / internship",
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "DATA ANALYST L3",
@@ -3488,7 +4315,7 @@
 "is_fresher": true,
 "experience_text": "LinkedIn: entry level / internship",
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-26"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Data Analyst",
@@ -3502,7 +4329,7 @@
 "is_fresher": true,
 "experience_text": "LinkedIn: entry level / internship",
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-25"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Data Analyst – SAS & Banking",
@@ -3516,7 +4343,7 @@
 "is_fresher": true,
 "experience_text": "LinkedIn: entry level / internship",
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-25"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Power BI",
@@ -3558,7 +4385,7 @@
 "is_fresher": true,
 "experience_text": "LinkedIn: entry level / internship",
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-26"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Frontend Engineer",
@@ -3572,7 +4399,7 @@
 "is_fresher": true,
 "experience_text": "LinkedIn: entry level / internship",
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-26"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Front End Developer",
@@ -3586,7 +4413,7 @@
 "is_fresher": true,
 "experience_text": "LinkedIn: entry level / internship",
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-26"
+"last_seen": "2026-11-28"
 },
 {
 "title": "React and GCP",
@@ -3600,7 +4427,7 @@
 "is_fresher": true,
 "experience_text": "LinkedIn: entry level / internship",
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-26"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Frontend Developer",
@@ -3614,7 +4441,7 @@
 "is_fresher": true,
 "experience_text": "LinkedIn: entry level / internship",
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-26"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Python Developer",
@@ -3872,7 +4699,7 @@
 "is_kochi": false,
 "deadline": "2026-12-24",
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Software QA Engineer (C#)",
@@ -3885,7 +4712,7 @@
 "is_kochi": false,
 "deadline": "2026-12-31",
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Android AOSP Hardware Enablement Engineer",
@@ -3898,7 +4725,7 @@
 "is_kochi": false,
 "deadline": "2026-12-02",
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Android Automotive Engineer",
@@ -3911,7 +4738,7 @@
 "is_kochi": false,
 "deadline": "2026-12-02",
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Quality Assurance & Documentation Technician (m/f/d)",
@@ -3955,7 +4782,7 @@
 "is_fresher": true,
 "experience_text": "LinkedIn: entry level / internship",
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-26"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Digital Cloud Solution Architecture IC4",
@@ -3981,7 +4808,7 @@
 "is_fresher": true,
 "experience_text": "LinkedIn: entry level / internship",
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Eng, Artificial Intelligence",
@@ -4009,7 +4836,7 @@
 "is_fresher": true,
 "experience_text": "LinkedIn: entry level / internship",
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-26"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Java Engineer, AVP",
@@ -4051,7 +4878,7 @@
 "is_fresher": true,
 "experience_text": "LinkedIn: entry level / internship",
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "AI/ML/GEN AI Engineer",
@@ -4065,7 +4892,7 @@
 "is_fresher": true,
 "experience_text": "LinkedIn: entry level / internship",
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Quality Assurance Rater - English speakers in India",
@@ -4079,7 +4906,7 @@
 "is_fresher": true,
 "experience_text": "LinkedIn: entry level / internship",
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Software Engineer (Python, GenAI, FastAPi)",
@@ -4093,7 +4920,7 @@
 "is_fresher": true,
 "experience_text": "LinkedIn: entry level / internship",
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "AI/ML Engineer",
@@ -4121,7 +4948,7 @@
 "is_fresher": true,
 "experience_text": "LinkedIn: entry level / internship",
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-26"
+"last_seen": "2026-11-28"
 },
 {
 "title": "React Developer",
@@ -4149,7 +4976,7 @@
 "is_fresher": true,
 "experience_text": "LinkedIn: entry level / internship",
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-26"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Java React Full stack Developer",
@@ -4231,7 +5058,7 @@
 "is_fresher": true,
 "experience_text": "3+ years of data engineering experience - Experience with data modeling, warehousing and building ETL pipelines - Experience with one or m",
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Computer Scientist-I (Python)",
@@ -4267,7 +5094,7 @@
 "category": "Software Dev",
 "is_kochi": false,
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Software Engineer, PhD, Early Careers",
@@ -4281,7 +5108,7 @@
 "is_fresher": true,
 "experience_text": "Batch 2025, 2026, and 2027",
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "a software developer/full",
@@ -4309,7 +5136,7 @@
 "is_fresher": true,
 "experience_text": "Batch 2021,2022",
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "a software engineers",
@@ -4364,7 +5191,7 @@
 "is_fresher": true,
 "experience_text": "Batch 2021, 2022, 2023 and 2024",
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Software Engineer",
@@ -4378,7 +5205,7 @@
 "is_fresher": true,
 "experience_text": "Batch 2022, 2023, 2024",
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "a software engineer",
@@ -4392,7 +5219,7 @@
 "is_fresher": true,
 "experience_text": "Batch 2023, 2024, and 2025",
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Software Engineer",
@@ -4434,7 +5261,7 @@
 "is_fresher": true,
 "experience_text": "Batch 2021, 2022, 2023, 2024",
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Software Engineer",
@@ -4448,7 +5275,7 @@
 "is_fresher": true,
 "experience_text": "Batch 2023, 2024, 2025",
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Software Engineer",
@@ -4462,7 +5289,7 @@
 "is_fresher": true,
 "experience_text": "Batch 2022, 2023, 2024, 2025",
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-27",
+"last_seen": "2026-11-28",
 "salary_text": "10-13 LPA",
 "salary_min_monthly_inr": 83333
 },
@@ -4478,7 +5305,7 @@
 "is_fresher": true,
 "experience_text": "Batch 2021, 2022, 2023, 2024",
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Associate Application Developer - Salesforce",
@@ -4492,7 +5319,7 @@
 "is_fresher": true,
 "experience_text": "Freshers/ Experienced",
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Software Engineer Intern",
@@ -4507,7 +5334,7 @@
 "experience_text": "Freshers",
 "job_type": "internship",
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Freelance Wordpress Developer",
@@ -4560,7 +5387,7 @@
 "is_kochi": false,
 "deadline": "2026-12-22",
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Vibe Coder Trainee – Full Stack Development",
@@ -4574,7 +5401,7 @@
 "is_fresher": true,
 "deadline": "2026-11-30",
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Cloud Platform Automation Engineer (f/m/d)",
@@ -4590,7 +5417,7 @@
 "visa_sponsorship": true,
 "experience_text": "Not stated",
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Platform Infrastructure Data Analyst",
@@ -4604,7 +5431,7 @@
 "is_fresher": true,
 "experience_text": "LinkedIn: entry level / internship",
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-26"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Associate Software Developer",
@@ -4618,7 +5445,7 @@
 "is_fresher": true,
 "experience_text": "LinkedIn: entry level / internship",
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Associate Software Engineer",
@@ -4646,7 +5473,7 @@
 "is_fresher": true,
 "experience_text": "LinkedIn: entry level / internship",
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-26"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Full Stack Developer (Tech Solutions - BLR)",
@@ -4686,7 +5513,7 @@
 "category": "Software Dev",
 "is_kochi": false,
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Software Engineer Intern",
@@ -4748,7 +5575,7 @@
 "is_kochi": false,
 "experience_text": "Experienced",
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Associate AI or ML Engineer",
@@ -4762,7 +5589,7 @@
 "is_fresher": true,
 "experience_text": "Freshers/ Experienced",
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Internship - Software Engineering",
@@ -4777,7 +5604,7 @@
 "experience_text": "Freshers",
 "job_type": "internship",
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "SAP S/4HANA – ABAP Developer",
@@ -4790,7 +5617,7 @@
 "is_kochi": false,
 "deadline": "2026-11-27",
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Snowflake Data & AI Engineer",
@@ -4819,7 +5646,7 @@
 "visa_sponsorship": true,
 "experience_text": "Not stated",
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Software Development Engineer, AWS DynamoDB",
@@ -4847,7 +5674,7 @@
 "is_fresher": true,
 "experience_text": "LinkedIn: entry level / internship",
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-26"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Dot Net Full Stack Developer",
@@ -4889,7 +5716,7 @@
 "is_fresher": true,
 "experience_text": "LinkedIn: entry level / internship",
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-26"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Full stack Developer",
@@ -4903,7 +5730,7 @@
 "is_fresher": true,
 "experience_text": "LinkedIn: entry level / internship",
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-26"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Graduate Engineer Trainee",
@@ -4958,7 +5785,7 @@
 "is_fresher": true,
 "experience_text": "Freshers/ Experienced",
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Junior Fullstack Engineer - ETS",
@@ -4972,7 +5799,7 @@
 "is_fresher": true,
 "experience_text": "Freshers/ Experienced",
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Graphic Designer + AI Video Creator",
@@ -4985,7 +5812,7 @@
 "is_kochi": true,
 "deadline": "2026-11-28",
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-26"
+"last_seen": "2026-11-28"
 },
 {
 "title": "GRAPHIC DESIGNER cum VIDEO EDITOR (AI tools Expertise)",
@@ -5252,7 +6079,7 @@
 "is_fresher": true,
 "experience_text": "LinkedIn: entry level / internship",
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-26"
+"last_seen": "2026-11-28"
 },
 {
 "title": "GenAI Data Scientist",
@@ -5543,7 +6370,7 @@
 "is_fresher": true,
 "experience_text": "Do you have experience in written and spoken English and an ability to compose grammatically correct, concise and accurate written respons",
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Associate Technical Support Engineer (French/German/ Italian/Portuguese Speaking)",
@@ -5556,7 +6383,7 @@
 "is_kochi": false,
 "is_fresher": true,
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "in India.",
@@ -5583,7 +6410,7 @@
 "salary_text": "12-16 LPA",
 "salary_min_monthly_inr": 100000,
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Associate Software Engineer",
@@ -5599,7 +6426,7 @@
 "salary_text": "8-12 LPA",
 "salary_min_monthly_inr": 66666,
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "JUNIOR SOFTWARE ENGINEER",
@@ -5627,7 +6454,7 @@
 "salary_text": "17-40 LPA",
 "salary_min_monthly_inr": 141666,
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Junior DevOps Engineer",
@@ -5643,7 +6470,7 @@
 "salary_text": "10-15 LPA",
 "salary_min_monthly_inr": 83333,
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Software Engineer I, AI Solutions & Platforms",
@@ -5659,7 +6486,7 @@
 "salary_text": "18-24 LPA",
 "salary_min_monthly_inr": 150000,
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Business Development Executive - IT & Software (Exp: 2+ Yrs)",
@@ -5672,7 +6499,7 @@
 "is_kochi": false,
 "deadline": "2026-11-27",
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Test Engineer",
@@ -5768,7 +6595,7 @@
 "is_fresher": true,
 "experience_text": "LinkedIn: entry level / internship",
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-26"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Gen Ai, LLM Engineer",
@@ -5782,7 +6609,7 @@
 "is_fresher": true,
 "experience_text": "LinkedIn: entry level / internship",
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-26"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Python Django Developer",
@@ -5996,7 +6823,7 @@
 "category": "Software Dev",
 "is_kochi": false,
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Backend Developer",
@@ -6092,7 +6919,7 @@
 "is_kochi": false,
 "is_fresher": true,
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Software Engineer",
@@ -6106,7 +6933,7 @@
 "is_fresher": true,
 "experience_text": "Freshers",
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Apprentice, Client Support",
@@ -6120,7 +6947,7 @@
 "is_fresher": true,
 "experience_text": "Freshers",
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "interns at Newton School",
@@ -6136,7 +6963,7 @@
 "salary_min_monthly_inr": 15000,
 "job_type": "internship",
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "ColdFusion Developer",
@@ -6345,7 +7172,7 @@
 "salary_text": "12-16 LPA",
 "salary_min_monthly_inr": 100000,
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Associate, AI Engineer",
@@ -6361,7 +7188,7 @@
 "salary_text": "18-24 LPA",
 "salary_min_monthly_inr": 150000,
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "AI Platform Engineer",
@@ -6376,7 +7203,7 @@
 "salary_text": "18-24 LPA",
 "salary_min_monthly_inr": 150000,
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Software Engineer",
@@ -6391,7 +7218,7 @@
 "salary_text": "18-24 LPA",
 "salary_min_monthly_inr": 150000,
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Associate Software Analyst",
@@ -6407,7 +7234,7 @@
 "salary_text": "12-16 LPA",
 "salary_min_monthly_inr": 100000,
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "AI-Enabled Tools Development and Automation Engineer",
@@ -6419,7 +7246,7 @@
 "category": "AI/ML",
 "is_kochi": false,
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Data & Analytics Analyst I",
@@ -6471,7 +7298,7 @@
 "category": "Software Dev",
 "is_kochi": false,
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Android HAL Camera Domain Engineer",
@@ -6483,7 +7310,7 @@
 "category": "Mobile",
 "is_kochi": false,
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "AI Developer",
@@ -6641,7 +7468,7 @@
 "category": "Software Dev",
 "is_kochi": false,
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Data Engineer I, Business Data Technologies",
@@ -6655,7 +7482,7 @@
 "is_fresher": true,
 "experience_text": "1+ years of data engineering experience - Experience with SQL - Experience with data modeling, warehousing and building ETL pipelines - Ex",
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Data Engineer I, DSP Analytics",
@@ -6669,7 +7496,7 @@
 "is_fresher": true,
 "experience_text": "2+ years of data engineering experience - Experience with SQL - Experience with data modeling, warehousing and building ETL pipelines - Ex",
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Digital Cloud Solution Architecture",
@@ -6693,7 +7520,7 @@
 "category": "AI/ML",
 "is_kochi": false,
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Data Engineer I, SPIV Data Engineering",
@@ -6707,7 +7534,7 @@
 "is_fresher": true,
 "experience_text": "1+ years of data engineering experience - Experience with SQL - Experience with data modeling, warehousing and building ETL pipelines - Ex",
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Cloud Software Development Engineer",
@@ -6719,7 +7546,7 @@
 "category": "DevOps/Cloud",
 "is_kochi": false,
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "AI Model Optimization Engineer",
@@ -6731,7 +7558,7 @@
 "category": "AI/ML",
 "is_kochi": false,
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Physical Design Automation Engineer",
@@ -6769,7 +7596,7 @@
 "is_fresher": true,
 "experience_text": "1+ years of data engineering experience - Experience with data modeling, warehousing and building ETL pipelines - Experience with one or m",
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Software Development Engineer I",
@@ -6783,7 +7610,7 @@
 "is_fresher": true,
 "experience_text": "1+ years of non-internship professional software development experience - Experience programming with at least one software programming la",
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Software Development Engineer I FTC",
@@ -6797,7 +7624,7 @@
 "is_fresher": true,
 "experience_text": "1+ years of non-internship professional software development experience - Experience programming with at least one software programming la",
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Full Stack Developer (Node.js & Angular)",
@@ -9293,46 +10120,6 @@
 "is_fresher": true,
 "is_kochi": false,
 "first_seen": "2026-10-28",
-"last_seen": "2026-11-25"
-},
-{
-"title": "Full Stack Development Intern",
-"company": "Rugas Technologies Private Limited",
-"location": "Bangalore (in-office)",
-"city": "Bangalore",
-"is_kochi": false,
-"experience_text": "Internship, 3 months",
-"is_fresher": true,
-"salary_text": "₹16,000–20,000/month",
-"salary_min_monthly_inr": 16000,
-"salary_display": "₹16–20k/mo",
-"job_type": "Internship",
-"deadline": "2026-11-26",
-"posted_or_email_date": "2026-10-27",
-"apply_url": "https://internshala.com/internship/detail/full-stack-development-internship-in-bangalore-at-rugas-technologies-private-limited1793067169",
-"source": "Internshala",
-"category": "Web Dev",
-"first_seen": "2026-10-27",
-"last_seen": "2026-11-25"
-},
-{
-"title": "Flutter Development Intern",
-"company": "CSTech Infosolutions Private Limited",
-"location": "Bangalore (in-office)",
-"city": "Bangalore",
-"is_kochi": false,
-"experience_text": "Internship, 6 months",
-"is_fresher": true,
-"salary_text": "₹14,000–15,000/month",
-"salary_min_monthly_inr": 14000,
-"salary_display": "₹14–15k/mo",
-"job_type": "Internship",
-"deadline": "2026-11-26",
-"posted_or_email_date": "2026-10-27",
-"apply_url": "https://internshala.com/internship/detail/flutter-development-internship-in-bangalore-at-cstech-infosolutions-private-limited1793090609",
-"source": "Internshala",
-"category": "Mobile",
-"first_seen": "2026-10-27",
 "last_seen": "2026-11-25"
 },
 {
