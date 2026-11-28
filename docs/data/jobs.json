@@ -1,12 +1,12 @@
 {
-"built": "28 Nov 2026, 08:38 UTC",
-"built_at": "2026-11-28T08:38:30+00:00",
+"built": "28 Nov 2026, 09:19 UTC",
+"built_at": "2026-11-28T09:19:10+00:00",
 "sources": {
 "LinkedIn": {
 "ok": true,
-"found": 153,
-"new": 31,
-"secs": 78
+"found": 164,
+"new": 10,
+"secs": 80
 },
 "Google Careers": {
 "ok": true,
@@ -18,48 +18,48 @@
 "ok": true,
 "found": 14,
 "new": 0,
-"secs": 14
+"secs": 10
 },
 "Microsoft Careers": {
 "ok": true,
 "found": 8,
-"new": 1,
-"secs": 16
+"new": 0,
+"secs": 11
 },
 "Workday careers (Adobe, NVIDIA, Intel, Salesforce)": {
 "ok": true,
-"found": 17,
-"new": 1,
-"secs": 32
+"found": 23,
+"new": 0,
+"secs": 38
 },
 "Telegram channels": {
 "ok": true,
 "found": 89,
-"new": 21,
-"secs": 11
+"new": 0,
+"secs": 10
 },
 "Fresher job blogs (RSS)": {
 "ok": true,
 "found": 3,
-"new": 3,
-"secs": 3
+"new": 0,
+"secs": 2
 },
 "Infopark": {
 "ok": true,
 "found": 6,
-"new": 0,
+"new": 1,
 "secs": 4
 },
 "Technopark": {
 "ok": true,
 "found": 16,
-"new": 2,
-"secs": 12
+"new": 0,
+"secs": 11
 },
 "Arbeitnow (Germany visa)": {
 "ok": true,
 "found": 6,
-"new": 1,
+"new": 0,
 "secs": 5
 },
 "Remotive": {
@@ -263,6 +263,20 @@
 "country": "Germany",
 "visa_sponsorship": true,
 "experience_text": "Not stated",
+"first_seen": "2026-11-28",
+"last_seen": "2026-11-28"
+},
+{
+"title": "Software-Entwicklung zur Forschungsvalidierung im Bereich von 6G",
+"company": "Chair of Human Resource Management, Leadership, and Organization | RPTU",
+"location": "Kerala, India",
+"apply_url": "https://in.linkedin.com/jobs/view/software-entwicklung-zur-forschungsvalidierung-im-bereich-von-6g-at-chair-of-human-resource-management-leadership-and-organization-rptu-4496006781",
+"source": "LinkedIn",
+"posted_or_email_date": "2026-11-28",
+"category": "Software Dev",
+"is_kochi": false,
+"is_fresher": true,
+"experience_text": "LinkedIn: entry level / internship",
 "first_seen": "2026-11-28",
 "last_seen": "2026-11-28"
 },
@@ -762,6 +776,89 @@
 "last_seen": "2026-11-28"
 },
 {
+"title": "Java- Software Engineer- BF- 40489-75361- JR213122",
+"company": "Carelon Global Solutions India",
+"location": "Bengaluru South, Karnataka, India",
+"apply_url": "https://in.linkedin.com/jobs/view/java-software-engineer-bf-40489-75361-jr213122-at-carelon-global-solutions-india-4495806187",
+"source": "LinkedIn",
+"posted_or_email_date": "2026-11-27",
+"category": "Software Dev",
+"is_kochi": false,
+"is_fresher": true,
+"experience_text": "LinkedIn: entry level / internship",
+"first_seen": "2026-11-28",
+"last_seen": "2026-11-28"
+},
+{
+"title": "Java Full stack developer",
+"company": "Starcom Consultant",
+"location": "Bengaluru, Karnataka, India",
+"apply_url": "https://in.linkedin.com/jobs/view/java-full-stack-developer-at-starcom-consultant-4495073707",
+"source": "LinkedIn",
+"posted_or_email_date": "2026-11-27",
+"category": "Web Dev",
+"is_kochi": false,
+"is_fresher": true,
+"experience_text": "LinkedIn: entry level / internship",
+"first_seen": "2026-11-28",
+"last_seen": "2026-11-28"
+},
+{
+"title": "Software Engineer",
+"company": "U.S. Bank",
+"location": "Chennai, Tamil Nadu, India",
+"apply_url": "https://in.linkedin.com/jobs/view/software-engineer-at-u-s-bank-4495588959",
+"source": "LinkedIn",
+"posted_or_email_date": "2026-11-27",
+"category": "Software Dev",
+"is_kochi": false,
+"is_fresher": true,
+"experience_text": "LinkedIn: entry level / internship",
+"first_seen": "2026-11-28",
+"last_seen": "2026-11-28"
+},
+{
+"title": "Full Stack Java Developer Junior",
+"company": "Citi",
+"location": "Chennai, Tamil Nadu, India",
+"apply_url": "https://in.linkedin.com/jobs/view/full-stack-java-developer-junior-at-citi-4486919636",
+"source": "LinkedIn",
+"posted_or_email_date": "2026-11-27",
+"category": "Web Dev",
+"is_kochi": false,
+"is_fresher": true,
+"experience_text": "LinkedIn: entry level / internship",
+"first_seen": "2026-11-28",
+"last_seen": "2026-11-28"
+},
+{
+"title": "Full Stack Engineer",
+"company": "PIXELOTECH",
+"location": "Vadodara, Gujarat, India",
+"apply_url": "https://in.linkedin.com/jobs/view/full-stack-engineer-at-pixelotech-4493874236",
+"source": "LinkedIn",
+"posted_or_email_date": "2026-11-27",
+"category": "Web Dev",
+"is_kochi": false,
+"is_fresher": true,
+"experience_text": "LinkedIn: entry level / internship",
+"first_seen": "2026-11-28",
+"last_seen": "2026-11-28"
+},
+{
+"title": "AI Search & Agentic Growth Specialist (LLM SEO)",
+"company": "Mozilor Technologies Pvt. Ltd.",
+"location": "Infopark, Kochi, Kerala",
+"apply_url": "https://infopark.in/company-jobs/details/333/27042",
+"source": "Infopark Jobs",
+"posted_or_email_date": "2026-11-27",
+"category": "AI/ML",
+"is_kochi": true,
+"deadline": "2026-11-28",
+"first_seen": "2026-11-28",
+"last_seen": "2026-11-28"
+},
+{
 "title": "LLM Model Developer",
 "company": "Accenture in India",
 "location": "Bengaluru, Karnataka, India",
@@ -850,6 +947,62 @@
 "company": "Blackbaud India",
 "location": "Hyderabad, Telangana, India",
 "apply_url": "https://in.linkedin.com/jobs/view/web-developer-at-blackbaud-india-4468797468",
+"source": "LinkedIn",
+"posted_or_email_date": "2026-11-26",
+"category": "Web Dev",
+"is_kochi": false,
+"is_fresher": true,
+"experience_text": "LinkedIn: entry level / internship",
+"first_seen": "2026-11-28",
+"last_seen": "2026-11-28"
+},
+{
+"title": "Software Development Engineer -Backend(Node JS) -Altium",
+"company": "Renesas Electronics",
+"location": "Bengaluru East, Karnataka, India",
+"apply_url": "https://in.linkedin.com/jobs/view/software-development-engineer-backend-node-js-altium-at-renesas-electronics-4495275692",
+"source": "LinkedIn",
+"posted_or_email_date": "2026-11-26",
+"category": "Web Dev",
+"is_kochi": false,
+"is_fresher": true,
+"experience_text": "LinkedIn: entry level / internship",
+"first_seen": "2026-11-28",
+"last_seen": "2026-11-28"
+},
+{
+"title": "JR-232836 Full stack Developer",
+"company": "Customertimes",
+"location": "Bengaluru, Karnataka, India",
+"apply_url": "https://in.linkedin.com/jobs/view/jr-232836-full-stack-developer-at-customertimes-4495004824",
+"source": "LinkedIn",
+"posted_or_email_date": "2026-11-26",
+"category": "Web Dev",
+"is_kochi": false,
+"is_fresher": true,
+"experience_text": "LinkedIn: entry level / internship",
+"first_seen": "2026-11-28",
+"last_seen": "2026-11-28"
+},
+{
+"title": "Fullstack Developer",
+"company": "Venxr",
+"location": "Mumbai Metropolitan Region",
+"apply_url": "https://in.linkedin.com/jobs/view/fullstack-developer-at-venxr-4495030018",
+"source": "LinkedIn",
+"posted_or_email_date": "2026-11-26",
+"category": "Web Dev",
+"is_kochi": false,
+"is_fresher": true,
+"experience_text": "LinkedIn: entry level / internship",
+"first_seen": "2026-11-28",
+"last_seen": "2026-11-28"
+},
+{
+"title": "Full Stack Engineer",
+"company": "SourcingXPress",
+"location": "Pune City, Maharashtra, India",
+"apply_url": "https://in.linkedin.com/jobs/view/full-stack-engineer-at-sourcingxpress-4495283123",
 "source": "LinkedIn",
 "posted_or_email_date": "2026-11-26",
 "category": "Web Dev",
@@ -1433,7 +1586,7 @@
 "is_fresher": true,
 "experience_text": "LinkedIn: entry level / internship",
 "first_seen": "2026-11-27",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Founding AI Engineer-AI Agents",
@@ -1833,7 +1986,7 @@
 "is_fresher": true,
 "experience_text": "LinkedIn: entry level / internship",
 "first_seen": "2026-11-26",
-"last_seen": "2026-11-26"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Applied ML Engineer",
@@ -2083,7 +2236,7 @@
 "category": "Software Dev",
 "is_kochi": false,
 "first_seen": "2026-11-26",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Software Engineering MTS",
@@ -3115,7 +3268,7 @@
 "is_fresher": true,
 "experience_text": "LinkedIn: entry level / internship",
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-26"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Python Developer",
@@ -4990,7 +5143,7 @@
 "is_fresher": true,
 "experience_text": "LinkedIn: entry level / internship",
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-26"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Software Engineer",
@@ -5018,7 +5171,7 @@
 "is_fresher": true,
 "experience_text": "LinkedIn: entry level / internship",
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-26"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Go lang Developer - Intern",
@@ -5070,7 +5223,7 @@
 "category": "Software Dev",
 "is_kochi": false,
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Computer Scientist- I (Java)",
@@ -5082,7 +5235,7 @@
 "category": "Software Dev",
 "is_kochi": false,
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Assurance Engineering Platform Developer LMTS",
@@ -5487,7 +5640,7 @@
 "is_fresher": true,
 "experience_text": "LinkedIn: entry level / internship",
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-26"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Web Development Intern",
@@ -5660,7 +5813,7 @@
 "is_fresher": true,
 "experience_text": "LinkedIn: entry level / internship",
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-26"
+"last_seen": "2026-11-28"
 },
 {
 "title": "Full Stack Developer-Angular",
@@ -6811,7 +6964,7 @@
 "category": "AI/ML",
 "is_kochi": false,
 "first_seen": "2026-11-25",
-"last_seen": "2026-11-27"
+"last_seen": "2026-11-28"
 },
 {
 "title": "GPU Software System Management Engineer",
